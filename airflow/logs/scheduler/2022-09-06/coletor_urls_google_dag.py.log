@@ -1,0 +1,537 @@
+[2022-09-05T21:51:12.934-0300] {processor.py:153} INFO - Started process (PID=9437) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:51:12.935-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:51:12.935-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:12.935-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:51:12.981-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:51:13.028-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:13.028-0300] {manager.py:508} INFO - Created Permission View: can read on DAG:urls_google
+[2022-09-05T21:51:13.036-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:13.036-0300] {manager.py:508} INFO - Created Permission View: can delete on DAG:urls_google
+[2022-09-05T21:51:13.042-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:13.042-0300] {manager.py:508} INFO - Created Permission View: can edit on DAG:urls_google
+[2022-09-05T21:51:13.042-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:13.042-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:51:13.048-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:13.047-0300] {dag.py:2448} INFO - Creating ORM DAG for urls_google
+[2022-09-05T21:51:13.055-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:13.055-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-05T00:51:13.055076+00:00, run_after=2022-09-06T00:51:13.055076+00:00
+[2022-09-05T21:51:13.065-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.134 seconds
+[2022-09-05T21:51:46.850-0300] {processor.py:153} INFO - Started process (PID=9482) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:51:46.851-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:51:46.851-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:46.851-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:51:46.894-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:51:46.902-0300] {processor.py:370} INFO - Running SLA Checks for urls_google
+[2022-09-05T21:51:46.931-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:46.931-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:51:46.941-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:46.941-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T21:51:46.954-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.106 seconds
+[2022-09-05T21:52:20.034-0300] {processor.py:153} INFO - Started process (PID=9558) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:52:20.134-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:52:20.134-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:20.134-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:52:20.185-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:52:20.199-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:20.199-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:52:20.219-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:20.219-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T21:52:20.231-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.199 seconds
+[2022-09-05T21:52:50.503-0300] {processor.py:153} INFO - Started process (PID=9601) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:52:50.504-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:52:50.505-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:50.504-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:52:50.537-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:52:50.607-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:50.607-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:52:50.620-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:50.620-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T21:52:50.637-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.137 seconds
+[2022-09-05T21:53:21.981-0300] {processor.py:153} INFO - Started process (PID=9686) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:53:21.992-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:53:21.992-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:21.992-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:53:22.025-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:53:22.036-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:22.036-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:53:22.049-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:22.049-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T21:53:22.060-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.081 seconds
+[2022-09-05T21:53:55.813-0300] {processor.py:153} INFO - Started process (PID=9727) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:53:55.814-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:53:55.814-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:55.814-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:53:55.861-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:53:55.873-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:55.873-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:53:55.890-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:55.890-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T21:53:55.903-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.093 seconds
+[2022-09-05T21:54:26.661-0300] {processor.py:153} INFO - Started process (PID=9795) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:54:26.758-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:54:26.758-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:26.758-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:54:26.802-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:54:26.819-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:26.819-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:54:26.837-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:26.837-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T21:54:26.856-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.201 seconds
+[2022-09-05T21:55:00.720-0300] {processor.py:153} INFO - Started process (PID=9837) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:55:00.721-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:55:00.721-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:00.721-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:55:00.765-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:55:00.779-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:00.779-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:55:00.797-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:00.797-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T21:55:00.811-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.095 seconds
+[2022-09-05T21:55:35.048-0300] {processor.py:153} INFO - Started process (PID=9890) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:55:35.049-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:55:35.050-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:35.050-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:55:35.086-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:55:35.098-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:35.098-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:55:35.114-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:35.114-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T21:55:35.146-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.101 seconds
+[2022-09-05T21:56:10.626-0300] {processor.py:153} INFO - Started process (PID=9934) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:56:10.723-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:56:10.723-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:10.723-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:56:10.762-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:56:10.774-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:10.774-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:56:10.790-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:10.790-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T21:56:10.812-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.188 seconds
+[2022-09-05T21:56:43.838-0300] {processor.py:153} INFO - Started process (PID=10027) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:56:43.839-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:56:43.840-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:43.840-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:56:43.887-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:56:43.900-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:43.900-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:56:43.915-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:43.915-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T21:56:43.926-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.091 seconds
+[2022-09-05T21:57:15.402-0300] {processor.py:153} INFO - Started process (PID=10133) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:57:15.498-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:57:15.499-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:15.499-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:57:15.534-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:57:15.545-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:15.545-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:57:15.560-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:15.560-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T21:57:15.573-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.174 seconds
+[2022-09-05T21:57:48.788-0300] {processor.py:153} INFO - Started process (PID=10204) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:57:48.919-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:57:48.920-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:48.920-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:57:48.996-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:57:49.027-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:49.027-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:57:49.056-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:49.056-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T21:57:49.072-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.288 seconds
+[2022-09-05T21:58:22.227-0300] {processor.py:153} INFO - Started process (PID=10257) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:58:22.228-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:58:22.229-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:22.228-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:58:22.268-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:58:22.280-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:22.279-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:58:22.293-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:22.293-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T21:58:22.317-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.094 seconds
+[2022-09-05T21:58:55.916-0300] {processor.py:153} INFO - Started process (PID=10310) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:58:55.984-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:58:55.985-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:55.985-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:58:56.033-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:58:56.057-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:56.056-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:58:56.084-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:56.084-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T21:58:56.111-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.201 seconds
+[2022-09-05T21:59:29.412-0300] {processor.py:153} INFO - Started process (PID=10374) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:59:29.413-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T21:59:29.414-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:29.413-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:59:29.451-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T21:59:29.466-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:29.466-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:59:29.488-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:29.488-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T21:59:29.503-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.094 seconds
+[2022-09-05T22:00:02.473-0300] {processor.py:153} INFO - Started process (PID=10497) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:00:02.474-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:00:02.474-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:02.474-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:00:02.507-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:00:02.519-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:02.519-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:00:02.536-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:02.535-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:00:02.582-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.111 seconds
+[2022-09-05T22:00:33.812-0300] {processor.py:153} INFO - Started process (PID=10545) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:00:33.813-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:00:33.814-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:33.814-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:00:33.865-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:00:33.878-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:33.878-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:00:33.904-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:33.904-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:00:33.919-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.109 seconds
+[2022-09-05T22:01:04.295-0300] {processor.py:153} INFO - Started process (PID=10642) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:01:04.313-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:01:04.313-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:04.313-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:01:04.380-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:01:04.402-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:04.402-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:01:04.434-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:04.434-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:01:04.451-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.162 seconds
+[2022-09-05T22:01:36.029-0300] {processor.py:153} INFO - Started process (PID=10781) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:01:36.030-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:01:36.035-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:36.030-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:01:36.085-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:01:36.098-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:36.097-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:01:36.113-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:36.113-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:01:36.126-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.100 seconds
+[2022-09-05T22:02:08.293-0300] {processor.py:153} INFO - Started process (PID=10867) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:02:08.316-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:02:08.317-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:08.316-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:02:08.363-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:02:08.381-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:08.381-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:02:08.398-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:08.398-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:02:08.414-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.123 seconds
+[2022-09-05T22:02:39.675-0300] {processor.py:153} INFO - Started process (PID=10905) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:02:39.678-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:02:39.681-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:39.680-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:02:39.729-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:02:39.744-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:39.744-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:02:39.759-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:39.759-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:02:39.768-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.097 seconds
+[2022-09-05T22:03:17.973-0300] {processor.py:153} INFO - Started process (PID=10977) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:03:17.983-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:03:17.984-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:17.984-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:03:18.017-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:03:18.029-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:18.029-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:03:18.043-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:18.043-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:03:18.054-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.084 seconds
+[2022-09-05T22:03:53.487-0300] {processor.py:153} INFO - Started process (PID=11112) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:03:53.588-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:03:53.589-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:53.589-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:03:53.630-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:03:53.646-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:53.646-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:03:53.662-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:53.662-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:03:53.675-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.191 seconds
+[2022-09-05T22:04:25.947-0300] {processor.py:153} INFO - Started process (PID=11194) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:04:25.948-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:04:25.948-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:25.948-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:04:26.000-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:04:26.015-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:26.015-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:04:26.032-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:26.032-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:04:26.049-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.105 seconds
+[2022-09-05T22:04:57.305-0300] {processor.py:153} INFO - Started process (PID=11267) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:04:57.325-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:04:57.326-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:57.326-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:04:57.388-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:04:57.411-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:57.411-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:04:57.431-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:57.431-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:04:57.443-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.140 seconds
+[2022-09-05T22:05:33.718-0300] {processor.py:153} INFO - Started process (PID=11343) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:05:33.808-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:05:33.809-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:33.809-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:05:33.847-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:05:33.860-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:33.860-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:05:33.873-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:33.873-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:05:33.883-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.167 seconds
+[2022-09-05T22:06:07.521-0300] {processor.py:153} INFO - Started process (PID=11407) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:06:07.597-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:06:07.598-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:07.598-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:06:07.642-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:06:07.653-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:07.653-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:06:07.666-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:07.666-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:06:07.675-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.159 seconds
+[2022-09-05T22:06:42.403-0300] {processor.py:153} INFO - Started process (PID=11613) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:06:42.407-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:06:42.409-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:42.408-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:06:42.463-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:06:42.481-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:42.481-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:06:42.504-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:42.504-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:06:42.530-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.131 seconds
+[2022-09-05T22:07:16.566-0300] {processor.py:153} INFO - Started process (PID=11723) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:07:16.567-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:07:16.567-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:16.567-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:07:16.600-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:07:16.612-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:16.611-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:07:16.623-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:16.623-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:07:16.654-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.091 seconds
+[2022-09-05T22:07:49.438-0300] {processor.py:153} INFO - Started process (PID=11857) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:07:49.450-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:07:49.451-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:49.451-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:07:49.564-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:07:49.593-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:49.593-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:07:49.618-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:49.618-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:07:49.663-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.238 seconds
+[2022-09-05T22:08:22.572-0300] {processor.py:153} INFO - Started process (PID=11913) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:08:22.573-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:08:22.574-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:22.574-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:08:22.611-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:08:22.624-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:22.623-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:08:22.638-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:22.638-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:08:22.660-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.091 seconds
+[2022-09-05T22:08:56.259-0300] {processor.py:153} INFO - Started process (PID=11968) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:08:56.270-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:08:56.271-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:56.270-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:08:56.330-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:08:56.350-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:56.349-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:08:56.375-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:56.375-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:08:56.399-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.145 seconds
+[2022-09-05T22:09:30.694-0300] {processor.py:153} INFO - Started process (PID=12241) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:09:30.695-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:09:30.696-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:09:30.695-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:09:30.730-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:09:30.742-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:09:30.742-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:09:30.755-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:09:30.755-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:09:30.765-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.073 seconds
+[2022-09-05T22:10:03.135-0300] {processor.py:153} INFO - Started process (PID=12326) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:10:03.136-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:10:03.137-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:03.136-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:10:03.173-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:10:03.184-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:03.184-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:10:03.196-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:03.196-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:10:03.206-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.073 seconds
+[2022-09-05T22:10:35.195-0300] {processor.py:153} INFO - Started process (PID=12405) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:10:35.202-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:10:35.202-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:35.202-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:10:35.267-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:10:35.289-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:35.289-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:10:35.312-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:35.312-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:10:35.326-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.135 seconds
+[2022-09-05T22:11:08.667-0300] {processor.py:153} INFO - Started process (PID=12460) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:11:08.770-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:11:08.771-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:08.771-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:11:08.806-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:11:08.817-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:08.817-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:11:08.835-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:08.835-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:11:08.857-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.196 seconds
+[2022-09-05T22:11:43.276-0300] {processor.py:153} INFO - Started process (PID=12554) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:11:43.276-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:11:43.277-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:43.277-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:11:43.310-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:11:43.321-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:43.321-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:11:43.334-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:43.334-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:11:43.345-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.072 seconds
+[2022-09-05T22:12:16.399-0300] {processor.py:153} INFO - Started process (PID=12656) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:12:16.400-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:12:16.401-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:16.401-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:12:16.434-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:12:16.446-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:16.446-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:12:16.457-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:16.457-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:12:16.467-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.071 seconds
+[2022-09-05T22:12:49.185-0300] {processor.py:153} INFO - Started process (PID=12740) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:12:49.186-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:12:49.186-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:49.186-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:12:49.223-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:12:49.238-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:49.238-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:12:49.251-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:49.251-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:12:49.263-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.080 seconds
+[2022-09-05T22:13:20.281-0300] {processor.py:153} INFO - Started process (PID=12784) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:13:20.282-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:13:20.283-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:20.282-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:13:20.315-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:13:20.326-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:20.326-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:13:20.342-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:20.342-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:13:20.468-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.189 seconds
+[2022-09-05T22:13:53.826-0300] {processor.py:153} INFO - Started process (PID=12854) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:13:53.924-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:13:53.925-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:53.925-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:13:53.973-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:13:53.990-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:53.990-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:13:54.009-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:54.009-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:13:54.036-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.212 seconds
+[2022-09-05T22:14:28.055-0300] {processor.py:153} INFO - Started process (PID=12898) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:14:28.157-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:14:28.157-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:28.157-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:14:28.193-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:14:28.207-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:28.206-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:14:28.222-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:28.222-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:14:28.233-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.182 seconds
+[2022-09-05T22:14:58.547-0300] {processor.py:153} INFO - Started process (PID=13048) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:14:58.548-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:14:58.548-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:58.548-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:14:58.583-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:14:58.595-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:58.595-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:14:58.608-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:58.608-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:14:58.618-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.073 seconds
+[2022-09-05T22:15:32.258-0300] {processor.py:153} INFO - Started process (PID=13152) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:15:32.272-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:15:32.273-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:32.273-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:15:32.312-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:15:32.323-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:32.323-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:15:32.336-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:32.336-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:15:32.346-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.091 seconds
+[2022-09-05T22:16:04.247-0300] {processor.py:153} INFO - Started process (PID=13320) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:16:04.355-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:16:04.358-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:04.358-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:16:04.405-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:16:04.420-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:04.419-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:16:04.434-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:04.433-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:16:04.446-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.209 seconds
+[2022-09-05T22:16:38.833-0300] {processor.py:153} INFO - Started process (PID=13402) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:16:38.834-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:16:38.834-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:38.834-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:16:38.864-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:16:38.874-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:38.874-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:16:38.887-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:38.887-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:16:38.928-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.097 seconds
+[2022-09-05T22:17:11.369-0300] {processor.py:153} INFO - Started process (PID=13547) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:17:11.428-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:17:11.429-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:11.429-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:17:11.459-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:17:11.469-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:11.469-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:17:11.481-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:11.481-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:17:11.517-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.150 seconds
+[2022-09-05T22:17:41.803-0300] {processor.py:153} INFO - Started process (PID=13604) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:17:41.804-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:17:41.804-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:41.804-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:17:41.851-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:17:41.867-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:41.867-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:17:41.886-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:41.886-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:17:41.904-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.103 seconds
+[2022-09-05T22:18:12.112-0300] {processor.py:153} INFO - Started process (PID=13724) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:18:12.213-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:18:12.214-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:12.214-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:18:12.265-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:18:12.283-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:12.282-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:18:12.302-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:12.302-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:18:12.323-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.215 seconds
+[2022-09-05T22:18:42.891-0300] {processor.py:153} INFO - Started process (PID=13783) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:18:42.892-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:18:42.892-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:42.892-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:18:42.932-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:18:42.947-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:42.947-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:18:42.965-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:42.965-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:18:42.979-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.091 seconds
+[2022-09-05T22:19:22.850-0300] {processor.py:153} INFO - Started process (PID=13831) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:19:22.953-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:19:22.954-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:22.954-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:19:22.987-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:19:22.999-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:22.999-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:19:23.012-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:23.012-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:19:23.023-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.176 seconds
+[2022-09-05T22:19:55.087-0300] {processor.py:153} INFO - Started process (PID=13978) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:19:55.106-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:19:55.107-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:55.106-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:19:55.169-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:19:55.183-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:55.182-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:19:55.199-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:55.199-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:19:55.224-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.140 seconds
+[2022-09-05T22:20:27.129-0300] {processor.py:153} INFO - Started process (PID=14122) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:20:27.143-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:20:27.144-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:27.144-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:20:27.184-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:20:27.201-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:27.200-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:20:27.224-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:27.224-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:20:27.249-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.122 seconds
+[2022-09-05T22:21:03.988-0300] {processor.py:153} INFO - Started process (PID=14168) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:21:03.989-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:21:03.990-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:03.990-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:21:04.026-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:21:04.039-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:04.039-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:21:04.054-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:04.053-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:21:04.306-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.321 seconds
+[2022-09-05T22:21:35.166-0300] {processor.py:153} INFO - Started process (PID=14208) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:21:35.168-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:21:35.168-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:35.168-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:21:35.207-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:21:35.220-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:35.220-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:21:35.233-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:35.233-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:21:35.252-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.088 seconds
+[2022-09-05T22:22:11.990-0300] {processor.py:153} INFO - Started process (PID=14252) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:22:11.991-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:22:11.991-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:11.991-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:22:12.021-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:22:12.031-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:12.031-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:22:12.042-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:12.042-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:22:12.053-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.065 seconds
+[2022-09-05T22:22:50.925-0300] {processor.py:153} INFO - Started process (PID=14298) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:22:50.926-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:22:50.927-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:50.927-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:22:50.957-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:22:50.967-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:50.967-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:22:50.979-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:50.979-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:22:50.989-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.066 seconds
+[2022-09-05T22:23:27.798-0300] {processor.py:153} INFO - Started process (PID=14343) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:23:27.799-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:23:27.799-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:27.799-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:23:27.835-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:23:27.846-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:27.845-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:23:27.860-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:27.860-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:23:27.884-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.088 seconds
+[2022-09-05T22:23:59.949-0300] {processor.py:153} INFO - Started process (PID=14380) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:23:59.950-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:23:59.950-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:59.950-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:23:59.981-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:23:59.992-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:59.992-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:24:00.005-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:00.004-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:24:00.015-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.068 seconds
+[2022-09-05T22:24:33.997-0300] {processor.py:153} INFO - Started process (PID=14420) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:24:33.998-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:24:33.998-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:33.998-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:24:34.028-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:24:34.039-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:34.039-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:24:34.052-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:34.052-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:24:34.064-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.069 seconds
+[2022-09-05T22:25:04.555-0300] {processor.py:153} INFO - Started process (PID=14458) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:25:04.555-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:25:04.556-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:04.556-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:25:04.591-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:25:04.602-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:04.602-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:25:04.617-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:04.617-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:25:04.737-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.188 seconds
+[2022-09-05T22:25:37.070-0300] {processor.py:153} INFO - Started process (PID=14497) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:25:37.071-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:25:37.071-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:37.071-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:25:37.102-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:25:37.113-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:37.113-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:25:37.125-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:37.125-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:25:37.137-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.069 seconds
+[2022-09-05T22:26:07.520-0300] {processor.py:153} INFO - Started process (PID=14531) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:26:07.530-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:26:07.530-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:07.530-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:26:07.577-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:26:07.589-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:07.589-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:26:07.601-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:07.601-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:26:07.619-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.102 seconds
+[2022-09-05T22:26:46.670-0300] {processor.py:153} INFO - Started process (PID=14794) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:26:46.679-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:26:46.680-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:46.680-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:26:46.743-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:26:46.763-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:46.763-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:26:46.788-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:46.787-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:26:46.815-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.149 seconds
+[2022-09-05T22:27:23.540-0300] {processor.py:153} INFO - Started process (PID=14849) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:27:23.541-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:27:23.542-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:23.541-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:27:23.583-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:27:23.599-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:23.599-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:27:23.617-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:23.617-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:27:23.642-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.106 seconds
+[2022-09-05T22:27:57.299-0300] {processor.py:153} INFO - Started process (PID=14891) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:27:57.397-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:27:57.398-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:57.398-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:27:57.428-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:27:57.438-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:57.438-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:27:57.453-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:57.452-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:27:57.468-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.171 seconds
+[2022-09-05T22:28:36.809-0300] {processor.py:153} INFO - Started process (PID=14939) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:28:36.811-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:28:36.811-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:36.811-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:28:36.847-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:28:36.861-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:36.861-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:28:36.877-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:36.877-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:28:36.890-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.083 seconds
+[2022-09-05T22:29:14.065-0300] {processor.py:153} INFO - Started process (PID=14989) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:29:14.078-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:29:14.079-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:14.079-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:29:14.112-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:29:14.128-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:14.128-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:29:14.142-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:14.142-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:29:14.169-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.106 seconds
+[2022-09-05T22:29:50.471-0300] {processor.py:153} INFO - Started process (PID=15032) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:29:50.472-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:29:50.472-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:50.472-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:29:50.508-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:29:50.519-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:50.519-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:29:50.539-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:50.538-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:29:50.550-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.081 seconds
+[2022-09-05T22:30:22.607-0300] {processor.py:153} INFO - Started process (PID=15078) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:30:22.607-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:30:22.608-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:22.608-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:30:22.651-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:30:22.664-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:22.664-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:30:22.677-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:22.677-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:30:22.781-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.178 seconds
+[2022-09-05T22:30:54.474-0300] {processor.py:153} INFO - Started process (PID=15121) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:30:54.578-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:30:54.579-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:54.579-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:30:54.609-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:30:54.620-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:54.619-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:30:54.632-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:54.632-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:30:54.651-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.179 seconds
+[2022-09-05T22:31:25.986-0300] {processor.py:153} INFO - Started process (PID=15157) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:31:25.988-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:31:25.988-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:25.988-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:31:26.030-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:31:26.047-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:26.047-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:31:26.070-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:26.070-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:31:26.193-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.211 seconds
+[2022-09-05T22:32:10.083-0300] {processor.py:153} INFO - Started process (PID=15349) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:32:10.084-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:32:10.084-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:10.084-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:32:10.128-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:32:10.142-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:10.142-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:32:10.167-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:10.167-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:32:10.184-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.104 seconds
+[2022-09-05T22:32:54.221-0300] {processor.py:153} INFO - Started process (PID=15563) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:32:54.231-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:32:54.231-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:54.231-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:32:54.274-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:32:54.298-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:54.298-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:32:54.317-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:54.317-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:32:54.363-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.145 seconds
+[2022-09-05T22:33:32.987-0300] {processor.py:153} INFO - Started process (PID=15791) to work on /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:33:32.988-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py for tasks to queue
+[2022-09-05T22:33:32.989-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:32.989-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:33:33.033-0300] {processor.py:650} INFO - DAG(s) dict_keys(['urls_google']) retrieved from /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py
+[2022-09-05T22:33:33.048-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:33.048-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:33:33.065-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:33.065-0300] {dag.py:2977} INFO - Setting next_dagrun for urls_google to 2022-09-06T00:51:13.055076+00:00, run_after=2022-09-07T00:51:13.055076+00:00
+[2022-09-05T22:33:33.093-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/coletor_urls_google_dag.py took 0.109 seconds

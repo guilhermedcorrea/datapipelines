@@ -1,0 +1,626 @@
+[2022-09-05T21:46:06.069-0300] {processor.py:153} INFO - Started process (PID=8801) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:46:06.070-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:46:06.070-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:06.070-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:46:06.143-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:46:06.199-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:06.199-0300] {manager.py:508} INFO - Created Permission View: can read on DAG:google_shopping
+[2022-09-05T21:46:06.205-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:06.205-0300] {manager.py:508} INFO - Created Permission View: can edit on DAG:google_shopping
+[2022-09-05T21:46:06.210-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:06.210-0300] {manager.py:508} INFO - Created Permission View: can delete on DAG:google_shopping
+[2022-09-05T21:46:06.210-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:06.210-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:46:06.215-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:06.215-0300] {dag.py:2448} INFO - Creating ORM DAG for google_shopping
+[2022-09-05T21:46:06.221-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:06.221-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-05T00:46:06.221495+00:00, run_after=2022-09-06T00:46:06.221495+00:00
+[2022-09-05T21:46:06.233-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.166 seconds
+[2022-09-05T21:46:38.776-0300] {processor.py:153} INFO - Started process (PID=8915) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:46:38.779-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:46:38.780-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:38.779-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:46:38.818-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:46:38.828-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:38.828-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:46:38.840-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:38.840-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-05T00:46:38.840422+00:00, run_after=2022-09-06T00:46:38.840422+00:00
+[2022-09-05T21:46:38.851-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.080 seconds
+[2022-09-05T21:47:14.126-0300] {processor.py:153} INFO - Started process (PID=9002) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:47:14.127-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:47:14.128-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:14.128-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:47:14.182-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:47:14.200-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:14.200-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:47:14.219-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:14.218-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-05T00:47:14.218640+00:00, run_after=2022-09-06T00:47:14.218640+00:00
+[2022-09-05T21:47:14.235-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.112 seconds
+[2022-09-05T21:47:33.708-0300] {processor.py:153} INFO - Started process (PID=9026) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:47:33.708-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:47:33.709-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:33.709-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:47:33.738-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:47:33.747-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:33.747-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:47:33.758-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:33.758-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-05T00:47:33.758303+00:00, run_after=2022-09-06T00:47:33.758303+00:00
+[2022-09-05T21:47:33.769-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.063 seconds
+[2022-09-05T21:48:11.487-0300] {processor.py:153} INFO - Started process (PID=9077) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:48:11.488-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:48:11.488-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:48:11.488-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:48:11.528-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:48:11.540-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:48:11.540-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:48:11.557-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:48:11.557-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-05T00:48:11.557069+00:00, run_after=2022-09-06T00:48:11.557069+00:00
+[2022-09-05T21:48:11.569-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.085 seconds
+[2022-09-05T21:48:48.276-0300] {processor.py:153} INFO - Started process (PID=9157) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:48:48.277-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:48:48.278-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:48:48.278-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:48:48.339-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:48:48.357-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:48:48.357-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:48:48.378-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:48:48.377-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-05T00:48:48.377417+00:00, run_after=2022-09-06T00:48:48.377417+00:00
+[2022-09-05T21:48:48.428-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.156 seconds
+[2022-09-05T21:49:03.455-0300] {processor.py:153} INFO - Started process (PID=9177) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:49:03.456-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:49:03.457-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:03.456-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:49:03.529-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:49:03.539-0300] {processor.py:370} INFO - Running SLA Checks for google_shopping
+[2022-09-05T21:49:03.570-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:03.569-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:49:03.581-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:03.581-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:49:03.592-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.146 seconds
+[2022-09-05T21:49:36.457-0300] {processor.py:153} INFO - Started process (PID=9227) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:49:36.461-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:49:36.462-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:36.462-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:49:36.533-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:49:36.554-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:36.554-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:49:36.575-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:36.575-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:49:36.621-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.168 seconds
+[2022-09-05T21:50:07.007-0300] {processor.py:153} INFO - Started process (PID=9267) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:50:07.009-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:50:07.009-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:50:07.009-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:50:07.056-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:50:07.073-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:50:07.073-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:50:07.089-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:50:07.088-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:50:07.112-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.109 seconds
+[2022-09-05T21:50:39.556-0300] {processor.py:153} INFO - Started process (PID=9355) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:50:39.658-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:50:39.659-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:50:39.659-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:50:39.691-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:50:39.702-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:50:39.701-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:50:39.714-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:50:39.714-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:50:39.727-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.174 seconds
+[2022-09-05T21:51:15.527-0300] {processor.py:153} INFO - Started process (PID=9440) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:51:15.567-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:51:15.568-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:15.568-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:51:15.614-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:51:15.748-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:15.748-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:51:15.985-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:15.985-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:51:16.064-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.542 seconds
+[2022-09-05T21:51:48.905-0300] {processor.py:153} INFO - Started process (PID=9484) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:51:48.906-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:51:48.906-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:48.906-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:51:48.947-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:51:48.959-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:48.959-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:51:48.977-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:48.976-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:51:49.034-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.133 seconds
+[2022-09-05T21:52:22.194-0300] {processor.py:153} INFO - Started process (PID=9561) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:52:22.198-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:52:22.199-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:22.199-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:52:22.257-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:52:22.274-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:22.274-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:52:22.302-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:22.301-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:52:22.326-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.141 seconds
+[2022-09-05T21:52:58.359-0300] {processor.py:153} INFO - Started process (PID=9614) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:52:58.369-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:52:58.369-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:58.369-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:52:58.404-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:52:58.413-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:58.413-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:52:58.426-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:58.426-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:52:58.435-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.079 seconds
+[2022-09-05T21:53:32.090-0300] {processor.py:153} INFO - Started process (PID=9698) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:53:32.091-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:53:32.092-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:32.092-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:53:32.125-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:53:32.134-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:32.134-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:53:32.147-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:32.146-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:53:32.174-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.086 seconds
+[2022-09-05T21:54:04.809-0300] {processor.py:153} INFO - Started process (PID=9737) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:54:04.809-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:54:04.810-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:04.810-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:54:04.840-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:54:04.849-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:04.849-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:54:04.862-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:04.861-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:54:04.872-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.065 seconds
+[2022-09-05T21:54:40.019-0300] {processor.py:153} INFO - Started process (PID=9810) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:54:40.118-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:54:40.118-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:40.118-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:54:40.150-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:54:40.160-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:40.160-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:54:40.172-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:40.172-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:54:40.182-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.165 seconds
+[2022-09-05T21:55:11.820-0300] {processor.py:153} INFO - Started process (PID=9855) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:55:11.820-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:55:11.821-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:11.821-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:55:11.868-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:55:11.879-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:11.879-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:55:11.893-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:11.893-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:55:11.904-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.089 seconds
+[2022-09-05T21:55:47.131-0300] {processor.py:153} INFO - Started process (PID=9903) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:55:47.158-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:55:47.159-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:47.159-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:55:47.203-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:55:47.219-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:47.218-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:55:47.239-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:47.239-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:55:47.261-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.134 seconds
+[2022-09-05T21:56:18.243-0300] {processor.py:153} INFO - Started process (PID=9945) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:56:18.257-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:56:18.258-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:18.258-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:56:18.298-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:56:18.311-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:18.311-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:56:18.329-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:18.329-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:56:18.373-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.133 seconds
+[2022-09-05T21:56:53.168-0300] {processor.py:153} INFO - Started process (PID=10063) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:56:53.169-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:56:53.169-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:53.169-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:56:53.204-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:56:53.219-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:53.219-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:56:53.237-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:53.236-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:56:53.320-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.155 seconds
+[2022-09-05T21:57:24.434-0300] {processor.py:153} INFO - Started process (PID=10147) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:57:24.447-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:57:24.448-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:24.448-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:57:24.483-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:57:24.499-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:24.499-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:57:24.519-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:24.519-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:57:24.552-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.120 seconds
+[2022-09-05T21:57:55.738-0300] {processor.py:153} INFO - Started process (PID=10211) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:57:55.746-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:57:55.747-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:55.747-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:57:55.778-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:57:55.787-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:55.787-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:57:55.799-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:55.799-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:57:55.809-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.073 seconds
+[2022-09-05T21:58:29.116-0300] {processor.py:153} INFO - Started process (PID=10265) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:58:29.117-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:58:29.117-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:29.117-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:58:29.151-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:58:29.161-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:29.161-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:58:29.173-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:29.173-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:58:29.191-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.078 seconds
+[2022-09-05T21:59:02.660-0300] {processor.py:153} INFO - Started process (PID=10332) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:59:02.680-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:59:02.681-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:02.681-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:59:02.726-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:59:02.740-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:02.740-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:59:02.758-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:02.758-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:59:02.773-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.116 seconds
+[2022-09-05T21:59:34.062-0300] {processor.py:153} INFO - Started process (PID=10379) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:59:34.063-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T21:59:34.063-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:34.063-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:59:34.102-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T21:59:34.114-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:34.113-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:59:34.127-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:34.127-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T21:59:34.148-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.088 seconds
+[2022-09-05T22:00:08.534-0300] {processor.py:153} INFO - Started process (PID=10504) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:00:08.548-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:00:08.549-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:08.549-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:00:08.580-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:00:08.590-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:08.590-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:00:08.603-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:08.603-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:00:08.612-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.080 seconds
+[2022-09-05T22:00:38.855-0300] {processor.py:153} INFO - Started process (PID=10575) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:00:38.857-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:00:38.858-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:38.858-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:00:38.917-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:00:38.928-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:38.927-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:00:38.944-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:38.944-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:00:38.967-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.116 seconds
+[2022-09-05T22:01:10.477-0300] {processor.py:153} INFO - Started process (PID=10653) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:01:10.580-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:01:10.581-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:10.581-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:01:10.615-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:01:10.625-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:10.625-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:01:10.639-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:10.639-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:01:10.649-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.174 seconds
+[2022-09-05T22:01:42.099-0300] {processor.py:153} INFO - Started process (PID=10793) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:01:42.101-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:01:42.123-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:42.116-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:01:42.209-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:01:42.228-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:42.227-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:01:42.246-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:42.246-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:01:42.281-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.189 seconds
+[2022-09-05T22:02:14.767-0300] {processor.py:153} INFO - Started process (PID=10875) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:02:14.788-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:02:14.789-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:14.789-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:02:14.822-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:02:14.833-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:14.833-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:02:14.846-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:14.846-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:02:14.865-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.102 seconds
+[2022-09-05T22:02:49.783-0300] {processor.py:153} INFO - Started process (PID=10916) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:02:49.786-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:02:49.786-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:49.786-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:02:49.842-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:02:49.863-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:49.863-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:02:49.892-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:49.891-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:02:49.938-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.159 seconds
+[2022-09-05T22:03:26.984-0300] {processor.py:153} INFO - Started process (PID=11015) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:03:26.991-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:03:26.993-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:26.992-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:03:27.073-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:03:27.100-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:27.100-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:03:27.130-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:27.130-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:03:27.152-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.172 seconds
+[2022-09-05T22:03:59.122-0300] {processor.py:153} INFO - Started process (PID=11119) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:03:59.122-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:03:59.123-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:59.123-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:03:59.162-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:03:59.173-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:59.173-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:03:59.189-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:59.189-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:03:59.256-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.137 seconds
+[2022-09-05T22:04:29.949-0300] {processor.py:153} INFO - Started process (PID=11199) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:04:29.950-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:04:29.951-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:29.951-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:04:30.050-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:04:30.077-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:30.077-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:04:30.117-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:30.117-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:04:30.138-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.192 seconds
+[2022-09-05T22:05:03.372-0300] {processor.py:153} INFO - Started process (PID=11276) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:05:03.373-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:05:03.373-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:03.373-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:05:03.419-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:05:03.435-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:03.434-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:05:03.452-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:03.452-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:05:03.496-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.127 seconds
+[2022-09-05T22:05:35.671-0300] {processor.py:153} INFO - Started process (PID=11345) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:05:35.671-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:05:35.672-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:35.672-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:05:35.708-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:05:35.721-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:35.721-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:05:35.734-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:35.734-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:05:35.814-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.145 seconds
+[2022-09-05T22:06:09.565-0300] {processor.py:153} INFO - Started process (PID=11409) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:06:09.565-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:06:09.565-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:09.565-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:06:09.600-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:06:09.612-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:09.612-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:06:09.624-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:09.624-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:06:09.635-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.072 seconds
+[2022-09-05T22:06:44.460-0300] {processor.py:153} INFO - Started process (PID=11616) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:06:44.510-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:06:44.511-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:44.511-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:06:44.591-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:06:44.610-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:44.610-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:06:44.629-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:44.629-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:06:44.649-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.192 seconds
+[2022-09-05T22:07:17.955-0300] {processor.py:153} INFO - Started process (PID=11725) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:07:17.971-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:07:17.972-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:17.972-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:07:18.015-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:07:18.032-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:18.032-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:07:18.050-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:18.050-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:07:18.075-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.123 seconds
+[2022-09-05T22:07:51.545-0300] {processor.py:153} INFO - Started process (PID=11861) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:07:51.546-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:07:51.547-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:51.546-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:07:51.589-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:07:51.606-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:51.606-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:07:51.623-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:51.623-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:07:51.636-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.095 seconds
+[2022-09-05T22:08:23.707-0300] {processor.py:153} INFO - Started process (PID=11915) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:08:23.719-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:08:23.720-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:23.720-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:08:23.759-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:08:23.775-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:23.774-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:08:23.791-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:23.791-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:08:23.811-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.107 seconds
+[2022-09-05T22:08:58.206-0300] {processor.py:153} INFO - Started process (PID=11970) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:08:58.209-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:08:58.209-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:58.209-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:08:58.258-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:08:58.355-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:58.355-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:08:58.372-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:58.372-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:08:58.389-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.187 seconds
+[2022-09-05T22:09:32.029-0300] {processor.py:153} INFO - Started process (PID=12243) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:09:32.031-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:09:32.032-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:09:32.032-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:09:32.094-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:09:32.110-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:09:32.110-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:09:32.127-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:09:32.127-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:09:32.143-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.117 seconds
+[2022-09-05T22:10:04.932-0300] {processor.py:153} INFO - Started process (PID=12339) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:10:04.933-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:10:04.934-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:04.933-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:10:04.966-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:10:04.977-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:04.977-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:10:04.989-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:04.989-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:10:04.999-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.070 seconds
+[2022-09-05T22:10:37.249-0300] {processor.py:153} INFO - Started process (PID=12407) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:10:37.250-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:10:37.251-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:37.250-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:10:37.284-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:10:37.295-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:37.295-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:10:37.307-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:37.307-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:10:37.342-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.095 seconds
+[2022-09-05T22:11:09.578-0300] {processor.py:153} INFO - Started process (PID=12475) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:11:09.579-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:11:09.580-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:09.580-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:11:09.617-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:11:09.630-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:09.630-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:11:09.643-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:09.643-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:11:09.825-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.250 seconds
+[2022-09-05T22:11:45.223-0300] {processor.py:153} INFO - Started process (PID=12556) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:11:45.224-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:11:45.224-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:45.224-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:11:45.256-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:11:45.375-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:45.375-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:11:45.388-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:45.388-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:11:45.397-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.177 seconds
+[2022-09-05T22:12:18.456-0300] {processor.py:153} INFO - Started process (PID=12669) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:12:18.457-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:12:18.458-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:18.457-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:12:18.490-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:12:18.501-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:18.501-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:12:18.513-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:18.513-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:12:18.523-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.069 seconds
+[2022-09-05T22:12:51.220-0300] {processor.py:153} INFO - Started process (PID=12742) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:12:51.221-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:12:51.221-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:51.221-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:12:51.258-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:12:51.360-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:51.360-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:12:51.374-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:51.374-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:12:51.385-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.168 seconds
+[2022-09-05T22:13:26.753-0300] {processor.py:153} INFO - Started process (PID=12792) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:13:26.754-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:13:26.754-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:26.754-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:13:26.785-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:13:26.795-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:26.794-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:13:26.808-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:26.808-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:13:26.818-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.067 seconds
+[2022-09-05T22:14:00.450-0300] {processor.py:153} INFO - Started process (PID=12863) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:14:00.451-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:14:00.451-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:00.451-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:14:00.486-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:14:00.500-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:00.500-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:14:00.517-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:00.517-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:14:00.531-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.084 seconds
+[2022-09-05T22:14:34.218-0300] {processor.py:153} INFO - Started process (PID=12919) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:14:34.220-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:14:34.221-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:34.220-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:14:34.264-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:14:34.278-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:34.278-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:14:34.295-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:34.295-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:14:34.336-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.121 seconds
+[2022-09-05T22:15:06.669-0300] {processor.py:153} INFO - Started process (PID=13064) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:15:06.670-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:15:06.671-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:06.670-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:15:06.700-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:15:06.711-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:06.710-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:15:06.722-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:06.722-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:15:06.735-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.068 seconds
+[2022-09-05T22:15:39.057-0300] {processor.py:153} INFO - Started process (PID=13192) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:15:39.058-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:15:39.059-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:39.059-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:15:39.101-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:15:39.115-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:39.115-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:15:39.133-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:39.132-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:15:39.211-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.156 seconds
+[2022-09-05T22:16:13.032-0300] {processor.py:153} INFO - Started process (PID=13329) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:16:13.047-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:16:13.048-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:13.048-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:16:13.089-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:16:13.102-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:13.102-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:16:13.120-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:13.120-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:16:13.143-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.114 seconds
+[2022-09-05T22:16:44.321-0300] {processor.py:153} INFO - Started process (PID=13441) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:16:44.323-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:16:44.323-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:44.323-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:16:44.353-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:16:44.371-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:44.371-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:16:44.384-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:44.384-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:16:44.417-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.097 seconds
+[2022-09-05T22:17:18.532-0300] {processor.py:153} INFO - Started process (PID=13576) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:17:18.532-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:17:18.533-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:18.533-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:17:18.564-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:17:18.574-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:18.574-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:17:18.587-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:18.587-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:17:18.706-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.179 seconds
+[2022-09-05T22:17:52.959-0300] {processor.py:153} INFO - Started process (PID=13663) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:17:52.960-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:17:52.961-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:52.961-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:17:52.992-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:17:53.003-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:53.002-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:17:53.014-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:53.014-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:17:53.025-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.069 seconds
+[2022-09-05T22:18:28.556-0300] {processor.py:153} INFO - Started process (PID=13768) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:18:28.557-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:18:28.558-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:28.558-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:18:28.628-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:18:28.649-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:28.649-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:18:28.677-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:28.677-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:18:28.705-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.152 seconds
+[2022-09-05T22:19:02.839-0300] {processor.py:153} INFO - Started process (PID=13805) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:19:02.841-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:19:02.842-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:02.842-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:19:02.886-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:19:02.904-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:02.904-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:19:02.923-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:02.923-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:19:02.938-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.102 seconds
+[2022-09-05T22:19:34.460-0300] {processor.py:153} INFO - Started process (PID=13845) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:19:34.461-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:19:34.462-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:34.462-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:19:34.507-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:19:34.523-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:34.523-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:19:34.543-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:34.543-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:19:34.556-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.101 seconds
+[2022-09-05T22:20:06.582-0300] {processor.py:153} INFO - Started process (PID=14036) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:20:06.583-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:20:06.583-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:06.583-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:20:06.615-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:20:06.627-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:06.626-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:20:06.639-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:06.639-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:20:06.758-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.179 seconds
+[2022-09-05T22:20:40.197-0300] {processor.py:153} INFO - Started process (PID=14138) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:20:40.198-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:20:40.198-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:40.198-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:20:40.232-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:20:40.242-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:40.241-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:20:40.253-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:40.253-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:20:40.265-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.070 seconds
+[2022-09-05T22:21:15.561-0300] {processor.py:153} INFO - Started process (PID=14183) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:21:15.562-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:21:15.562-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:15.562-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:21:15.598-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:21:15.610-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:15.610-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:21:15.622-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:15.622-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:21:15.633-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.075 seconds
+[2022-09-05T22:21:56.473-0300] {processor.py:153} INFO - Started process (PID=14235) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:21:56.474-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:21:56.474-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:56.474-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:21:56.513-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:21:56.526-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:56.526-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:21:56.540-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:56.540-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:21:56.551-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.081 seconds
+[2022-09-05T22:22:30.941-0300] {processor.py:153} INFO - Started process (PID=14278) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:22:30.942-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:22:30.943-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:30.943-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:22:30.994-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:22:31.018-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:31.017-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:22:31.044-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:31.044-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:22:31.067-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.128 seconds
+[2022-09-05T22:23:03.465-0300] {processor.py:153} INFO - Started process (PID=14315) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:23:03.466-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:23:03.467-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:03.466-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:23:03.507-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:23:03.523-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:03.522-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:23:03.538-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:03.538-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:23:03.552-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.092 seconds
+[2022-09-05T22:23:38.225-0300] {processor.py:153} INFO - Started process (PID=14356) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:23:38.255-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:23:38.257-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:38.256-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:23:38.294-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:23:38.305-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:38.305-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:23:38.319-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:38.319-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:23:38.336-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.114 seconds
+[2022-09-05T22:24:16.898-0300] {processor.py:153} INFO - Started process (PID=14403) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:24:16.903-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:24:16.903-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:16.903-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:24:16.943-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:24:16.955-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:16.955-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:24:16.968-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:16.968-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:24:16.978-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.083 seconds
+[2022-09-05T22:24:54.180-0300] {processor.py:153} INFO - Started process (PID=14443) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:24:54.181-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:24:54.181-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:54.181-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:24:54.221-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:24:54.234-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:54.234-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:24:54.251-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:54.250-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:24:54.265-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.088 seconds
+[2022-09-05T22:25:25.569-0300] {processor.py:153} INFO - Started process (PID=14485) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:25:25.569-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:25:25.570-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:25.570-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:25:25.603-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:25:25.618-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:25.618-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:25:25.635-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:25.635-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:25:25.647-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.081 seconds
+[2022-09-05T22:25:57.530-0300] {processor.py:153} INFO - Started process (PID=14521) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:25:57.531-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:25:57.532-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:57.532-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:25:57.567-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:25:57.578-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:57.578-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:25:57.590-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:57.590-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:25:57.599-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.071 seconds
+[2022-09-05T22:26:29.421-0300] {processor.py:153} INFO - Started process (PID=14559) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:26:29.422-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:26:29.423-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:29.423-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:26:29.468-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:26:29.484-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:29.484-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:26:29.504-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:29.503-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:26:29.519-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.101 seconds
+[2022-09-05T22:27:10.258-0300] {processor.py:153} INFO - Started process (PID=14833) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:27:10.266-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:27:10.268-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:10.268-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:27:10.321-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:27:10.378-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:10.378-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:27:10.589-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:10.589-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:27:10.710-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.456 seconds
+[2022-09-05T22:27:49.264-0300] {processor.py:153} INFO - Started process (PID=14882) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:27:49.274-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:27:49.274-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:49.274-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:27:49.307-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:27:49.319-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:49.319-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:27:49.337-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:49.336-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:27:49.360-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.099 seconds
+[2022-09-05T22:28:26.396-0300] {processor.py:153} INFO - Started process (PID=14929) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:28:26.397-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:28:26.398-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:26.397-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:28:26.463-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:28:26.486-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:26.486-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:28:26.508-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:26.508-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:28:26.523-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.131 seconds
+[2022-09-05T22:28:57.456-0300] {processor.py:153} INFO - Started process (PID=14967) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:28:57.457-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:28:57.457-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:57.457-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:28:57.500-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:28:57.514-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:57.514-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:28:57.532-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:57.532-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:28:57.545-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.092 seconds
+[2022-09-05T22:29:32.146-0300] {processor.py:153} INFO - Started process (PID=15010) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:29:32.147-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:29:32.148-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:32.148-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:29:32.180-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:29:32.192-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:32.192-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:29:32.205-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:32.205-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:29:32.218-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.074 seconds
+[2022-09-05T22:30:12.792-0300] {processor.py:153} INFO - Started process (PID=15064) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:30:12.793-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:30:12.793-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:12.793-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:30:12.822-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:30:12.832-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:12.832-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:30:12.845-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:12.844-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:30:12.878-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.089 seconds
+[2022-09-05T22:30:47.285-0300] {processor.py:153} INFO - Started process (PID=15113) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:30:47.286-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:30:47.286-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:47.286-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:30:47.320-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:30:47.332-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:47.331-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:30:47.346-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:47.346-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:30:47.459-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.177 seconds
+[2022-09-05T22:31:28.568-0300] {processor.py:153} INFO - Started process (PID=15159) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:31:28.569-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:31:28.569-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:28.569-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:31:28.604-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:31:28.615-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:28.615-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:31:28.629-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:28.629-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:31:28.639-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 0.074 seconds
+[2022-09-05T22:32:03.282-0300] {processor.py:153} INFO - Started process (PID=15201) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:32:03.284-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:32:03.284-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:03.284-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:32:03.647-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:03.647-0300] {logger.py:11} INFO - ====== WebDriver manager ======
+[2022-09-05T22:32:03.698-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:03.697-0300] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome 105.0.5195
+[2022-09-05T22:32:04.431-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:04.431-0300] {logger.py:11} INFO - There is no [linux64] chromedriver for browser 105.0.5195 in cache
+[2022-09-05T22:32:04.432-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:04.431-0300] {logger.py:11} INFO - About to download new driver from https://chromedriver.storage.googleapis.com/105.0.5195.52/chromedriver_linux64.zip
+[2022-09-05T22:32:04.725-0300] {logging_mixin.py:115} WARNING - [WDM] - Downloading:   0%|          | 0.00/6.98M [00:00<?, ?B/s]
+[2022-09-05T22:32:05.096-0300] {logging_mixin.py:115} WARNING - [WDM] - Downloading:   2%|2         | 176k/6.98M [00:00<00:14, 487kB/s]
+[2022-09-05T22:32:05.211-0300] {logging_mixin.py:115} WARNING - [WDM] - Downloading:   8%|8         | 584k/6.98M [00:00<00:04, 1.45MB/s]
+[2022-09-05T22:32:05.314-0300] {logging_mixin.py:115} WARNING - [WDM] - Downloading:  14%|#3        | 968k/6.98M [00:00<00:02, 2.12MB/s]
+[2022-09-05T22:32:05.414-0300] {logging_mixin.py:115} WARNING - [WDM] - Downloading:  19%|#8        | 1.32M/6.98M [00:00<00:02, 2.63MB/s]
+[2022-09-05T22:32:05.515-0300] {logging_mixin.py:115} WARNING - [WDM] - Downloading:  25%|##4       | 1.71M/6.98M [00:00<00:01, 3.04MB/s]
+[2022-09-05T22:32:05.618-0300] {logging_mixin.py:115} WARNING - [WDM] - Downloading:  31%|###1      | 2.18M/6.98M [00:00<00:01, 3.55MB/s]
+[2022-09-05T22:32:05.719-0300] {logging_mixin.py:115} WARNING - [WDM] - Downloading:  39%|###8      | 2.71M/6.98M [00:00<00:01, 4.13MB/s]
+[2022-09-05T22:32:05.822-0300] {logging_mixin.py:115} WARNING - [WDM] - Downloading:  48%|####7     | 3.32M/6.98M [00:01<00:00, 4.75MB/s]
+[2022-09-05T22:32:05.922-0300] {logging_mixin.py:115} WARNING - [WDM] - Downloading:  57%|#####6    | 3.95M/6.98M [00:01<00:00, 5.27MB/s]
+[2022-09-05T22:32:06.026-0300] {logging_mixin.py:115} WARNING - [WDM] - Downloading:  66%|######5   | 4.57M/6.98M [00:01<00:00, 5.59MB/s]
+[2022-09-05T22:32:06.127-0300] {logging_mixin.py:115} WARNING - [WDM] - Downloading:  75%|#######5  | 5.24M/6.98M [00:01<00:00, 5.99MB/s]
+[2022-09-05T22:32:06.237-0300] {logging_mixin.py:115} WARNING - [WDM] - Downloading:  84%|########3 | 5.83M/6.98M [00:01<00:00, 5.88MB/s]
+[2022-09-05T22:32:06.343-0300] {logging_mixin.py:115} WARNING - [WDM] - Downloading:  93%|#########2| 6.46M/6.98M [00:01<00:00, 5.99MB/s]
+[2022-09-05T22:32:06.443-0300] {logging_mixin.py:115} WARNING - [WDM] - Downloading: 100%|##########| 6.98M/6.98M [00:01<00:00, 4.26MB/s]
+[2022-09-05T22:32:06.567-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:06.567-0300] {logger.py:11} INFO - Driver has been saved in cache [/home/debian/.wdm/drivers/chromedriver/linux64/105.0.5195]
+[2022-09-05T22:32:08.566-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:32:08.726-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:08.725-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:32:08.785-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:08.785-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:32:08.836-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 5.557 seconds
+[2022-09-05T22:32:49.752-0300] {processor.py:153} INFO - Started process (PID=15407) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:32:49.873-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:32:49.874-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:49.873-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:32:50.305-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:50.305-0300] {logger.py:11} INFO - ====== WebDriver manager ======
+[2022-09-05T22:32:50.395-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:50.395-0300] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome 105.0.5195
+[2022-09-05T22:32:50.730-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:50.730-0300] {logger.py:11} INFO - Driver [/home/debian/.wdm/drivers/chromedriver/linux64/105.0.5195/chromedriver] found in cache
+[2022-09-05T22:32:52.848-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:32:52.864-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:52.864-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:32:52.882-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:52.882-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:32:52.991-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 3.242 seconds
+[2022-09-05T22:33:29.347-0300] {processor.py:153} INFO - Started process (PID=15657) to work on /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:33:29.347-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/google_shopping_dag.py for tasks to queue
+[2022-09-05T22:33:29.348-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:29.348-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:33:29.628-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:29.628-0300] {logger.py:11} INFO - ====== WebDriver manager ======
+[2022-09-05T22:33:29.675-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:29.675-0300] {logger.py:11} INFO - Get LATEST chromedriver version for google-chrome 105.0.5195
+[2022-09-05T22:33:29.908-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:29.907-0300] {logger.py:11} INFO - Driver [/home/debian/.wdm/drivers/chromedriver/linux64/105.0.5195/chromedriver] found in cache
+[2022-09-05T22:33:31.778-0300] {processor.py:650} INFO - DAG(s) dict_keys(['google_shopping']) retrieved from /home/debian/datapipelines/airflow/dags/google_shopping_dag.py
+[2022-09-05T22:33:31.798-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:31.796-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:33:31.836-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:31.836-0300] {dag.py:2977} INFO - Setting next_dagrun for google_shopping to 2022-09-06T00:48:48.377417+00:00, run_after=2022-09-07T00:48:48.377417+00:00
+[2022-09-05T22:33:31.862-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/google_shopping_dag.py took 2.517 seconds

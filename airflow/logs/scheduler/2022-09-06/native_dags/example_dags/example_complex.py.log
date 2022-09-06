@@ -1,0 +1,830 @@
+[2022-09-05T21:21:29.844-0300] {processor.py:153} INFO - Started process (PID=5340) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:21:29.844-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:21:29.845-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:21:29.845-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:21:29.853-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:21:29.929-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:21:29.929-0300] {manager.py:508} INFO - Created Permission View: can read on DAG:example_complex
+[2022-09-05T21:21:29.938-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:21:29.938-0300] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_complex
+[2022-09-05T21:21:29.946-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:21:29.946-0300] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_complex
+[2022-09-05T21:21:29.946-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:21:29.946-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:21:29.952-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:21:29.952-0300] {dag.py:2448} INFO - Creating ORM DAG for example_complex
+[2022-09-05T21:21:29.960-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:21:29.960-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:21:29.982-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.141 seconds
+[2022-09-05T21:22:03.570-0300] {processor.py:153} INFO - Started process (PID=5384) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:22:03.570-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:22:03.571-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:22:03.571-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:22:03.578-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:22:03.591-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:22:03.591-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:22:03.609-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:22:03.609-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:22:03.619-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2022-09-05T21:22:36.212-0300] {processor.py:153} INFO - Started process (PID=5441) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:22:36.213-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:22:36.213-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:22:36.213-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:22:36.221-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:22:36.236-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:22:36.236-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:22:36.250-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:22:36.250-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:22:36.274-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds
+[2022-09-05T21:23:10.069-0300] {processor.py:153} INFO - Started process (PID=5485) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:23:10.070-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:23:10.070-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:23:10.070-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:23:10.077-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:23:10.091-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:23:10.090-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:23:10.106-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:23:10.106-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:23:10.119-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2022-09-05T21:23:45.190-0300] {processor.py:153} INFO - Started process (PID=5560) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:23:45.199-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:23:45.199-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:23:45.199-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:23:45.206-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:23:45.218-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:23:45.218-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:23:45.231-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:23:45.231-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:23:45.241-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2022-09-05T21:24:19.083-0300] {processor.py:153} INFO - Started process (PID=5757) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:24:19.084-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:24:19.085-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:24:19.084-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:24:19.092-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:24:19.105-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:24:19.105-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:24:19.120-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:24:19.119-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:24:19.130-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2022-09-05T21:24:51.139-0300] {processor.py:153} INFO - Started process (PID=5822) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:24:51.140-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:24:51.140-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:24:51.140-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:24:51.149-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:24:51.163-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:24:51.162-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:24:51.176-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:24:51.176-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:24:51.185-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2022-09-05T21:25:25.371-0300] {processor.py:153} INFO - Started process (PID=5925) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:25:25.401-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:25:25.401-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:25:25.401-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:25:25.410-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:25:25.426-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:25:25.426-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:25:25.442-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:25:25.442-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:25:25.453-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2022-09-05T21:25:59.257-0300] {processor.py:153} INFO - Started process (PID=5974) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:25:59.257-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:25:59.258-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:25:59.258-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:25:59.270-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:25:59.285-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:25:59.285-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:25:59.302-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:25:59.302-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:25:59.314-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.059 seconds
+[2022-09-05T21:26:34.176-0300] {processor.py:153} INFO - Started process (PID=6045) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:26:34.177-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:26:34.177-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:26:34.177-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:26:34.185-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:26:34.199-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:26:34.199-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:26:34.213-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:26:34.213-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:26:34.223-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2022-09-05T21:27:07.907-0300] {processor.py:153} INFO - Started process (PID=6093) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:27:07.943-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:27:07.944-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:27:07.944-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:27:07.958-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:27:07.980-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:27:07.980-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:27:08.000-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:27:08.000-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:27:08.019-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.115 seconds
+[2022-09-05T21:27:43.408-0300] {processor.py:153} INFO - Started process (PID=6137) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:27:43.409-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:27:43.409-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:27:43.409-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:27:43.418-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:27:43.436-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:27:43.436-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:27:43.455-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:27:43.454-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:27:43.566-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.161 seconds
+[2022-09-05T21:28:17.473-0300] {processor.py:153} INFO - Started process (PID=6182) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:28:17.473-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:28:17.474-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:28:17.474-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:28:17.481-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:28:17.494-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:28:17.494-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:28:17.508-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:28:17.508-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:28:17.519-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2022-09-05T21:28:53.467-0300] {processor.py:153} INFO - Started process (PID=6435) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:28:53.468-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:28:53.469-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:28:53.468-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:28:53.478-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:28:53.495-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:28:53.494-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:28:53.514-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:28:53.514-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:28:53.552-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2022-09-05T21:29:28.794-0300] {processor.py:153} INFO - Started process (PID=6491) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:29:28.795-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:29:28.796-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:29:28.796-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:29:28.805-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:29:28.821-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:29:28.821-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:29:28.838-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:29:28.838-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:29:28.852-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2022-09-05T21:30:02.949-0300] {processor.py:153} INFO - Started process (PID=6548) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:30:02.950-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:30:02.950-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:30:02.950-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:30:02.958-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:30:02.978-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:30:02.978-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:30:02.995-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:30:02.995-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:30:03.140-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.192 seconds
+[2022-09-05T21:30:37.672-0300] {processor.py:153} INFO - Started process (PID=6590) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:30:37.790-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:30:37.791-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:30:37.791-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:30:37.798-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:30:37.811-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:30:37.811-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:30:37.823-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:30:37.823-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:30:37.871-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.201 seconds
+[2022-09-05T21:31:10.611-0300] {processor.py:153} INFO - Started process (PID=6626) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:31:10.612-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:31:10.619-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:31:10.619-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:31:10.634-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:31:10.650-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:31:10.650-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:31:10.662-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:31:10.661-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:31:10.673-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds
+[2022-09-05T21:31:45.360-0300] {processor.py:153} INFO - Started process (PID=6663) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:31:45.360-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:31:45.361-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:31:45.361-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:31:45.369-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:31:45.386-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:31:45.386-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:31:45.401-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:31:45.400-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:31:45.412-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2022-09-05T21:32:17.370-0300] {processor.py:153} INFO - Started process (PID=6716) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:32:17.370-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:32:17.371-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:32:17.371-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:32:17.379-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:32:17.398-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:32:17.397-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:32:17.412-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:32:17.412-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:32:17.424-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2022-09-05T21:32:53.265-0300] {processor.py:153} INFO - Started process (PID=6761) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:32:53.370-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:32:53.371-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:32:53.371-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:32:53.378-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:32:53.393-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:32:53.393-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:32:53.404-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:32:53.404-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:32:53.415-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2022-09-05T21:33:28.805-0300] {processor.py:153} INFO - Started process (PID=6804) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:33:28.806-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:33:28.806-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:33:28.806-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:33:28.814-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:33:28.829-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:33:28.829-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:33:28.840-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:33:28.840-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:33:28.852-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2022-09-05T21:34:03.407-0300] {processor.py:153} INFO - Started process (PID=6978) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:34:03.408-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:34:03.409-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:34:03.409-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:34:03.420-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:34:03.446-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:34:03.446-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:34:03.469-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:34:03.469-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:34:03.493-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2022-09-05T21:34:36.277-0300] {processor.py:153} INFO - Started process (PID=7042) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:34:36.277-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:34:36.277-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:34:36.277-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:34:36.285-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:34:36.298-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:34:36.298-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:34:36.309-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:34:36.309-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:34:36.387-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.113 seconds
+[2022-09-05T21:35:13.786-0300] {processor.py:153} INFO - Started process (PID=7198) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:35:13.787-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:35:13.787-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:35:13.787-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:35:13.795-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:35:13.810-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:35:13.810-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:35:13.821-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:35:13.821-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:35:13.834-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2022-09-05T21:35:46.102-0300] {processor.py:153} INFO - Started process (PID=7282) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:35:46.103-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:35:46.104-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:35:46.104-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:35:46.113-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:35:46.134-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:35:46.134-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:35:46.151-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:35:46.151-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:35:46.175-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.076 seconds
+[2022-09-05T21:36:17.720-0300] {processor.py:153} INFO - Started process (PID=7362) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:36:17.721-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:36:17.722-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:36:17.721-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:36:17.730-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:36:17.746-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:36:17.745-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:36:17.760-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:36:17.759-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:36:17.866-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.148 seconds
+[2022-09-05T21:36:50.765-0300] {processor.py:153} INFO - Started process (PID=7407) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:36:50.765-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:36:50.766-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:36:50.765-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:36:50.773-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:36:50.788-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:36:50.788-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:36:50.800-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:36:50.800-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:36:50.920-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2022-09-05T21:37:26.851-0300] {processor.py:153} INFO - Started process (PID=7483) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:37:26.851-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:37:26.852-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:37:26.852-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:37:26.860-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:37:26.875-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:37:26.875-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:37:26.886-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:37:26.886-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:37:26.897-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2022-09-05T21:38:01.847-0300] {processor.py:153} INFO - Started process (PID=7560) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:38:01.848-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:38:01.848-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:38:01.848-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:38:01.857-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:38:01.878-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:38:01.877-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:38:01.901-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:38:01.900-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:38:01.917-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.074 seconds
+[2022-09-05T21:38:35.334-0300] {processor.py:153} INFO - Started process (PID=7602) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:38:35.335-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:38:35.335-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:38:35.335-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:38:35.343-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:38:35.358-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:38:35.358-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:38:35.370-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:38:35.370-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:38:35.382-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2022-09-05T21:39:09.465-0300] {processor.py:153} INFO - Started process (PID=7649) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:39:09.484-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:39:09.485-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:39:09.485-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:39:09.495-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:39:09.517-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:39:09.517-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:39:09.535-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:39:09.534-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:39:09.551-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2022-09-05T21:39:42.311-0300] {processor.py:153} INFO - Started process (PID=7691) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:39:42.313-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:39:42.313-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:39:42.313-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:39:42.329-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:39:42.352-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:39:42.352-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:39:42.366-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:39:42.366-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:39:42.382-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.077 seconds
+[2022-09-05T21:40:18.410-0300] {processor.py:153} INFO - Started process (PID=7774) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:40:18.411-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:40:18.411-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:40:18.411-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:40:18.419-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:40:18.433-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:40:18.433-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:40:18.446-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:40:18.446-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:40:18.458-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2022-09-05T21:40:54.801-0300] {processor.py:153} INFO - Started process (PID=7845) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:40:54.801-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:40:54.802-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:40:54.802-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:40:54.809-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:40:54.824-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:40:54.823-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:40:54.834-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:40:54.834-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:40:54.948-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.149 seconds
+[2022-09-05T21:41:28.521-0300] {processor.py:153} INFO - Started process (PID=7898) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:41:28.537-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:41:28.537-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:41:28.537-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:41:28.547-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:41:28.566-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:41:28.566-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:41:28.580-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:41:28.580-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:41:28.590-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2022-09-05T21:42:03.279-0300] {processor.py:153} INFO - Started process (PID=7949) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:42:03.279-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:42:03.280-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:42:03.280-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:42:03.287-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:42:03.302-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:42:03.302-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:42:03.313-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:42:03.313-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:42:03.446-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.169 seconds
+[2022-09-05T21:42:38.403-0300] {processor.py:153} INFO - Started process (PID=8273) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:42:38.511-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:42:38.512-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:42:38.512-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:42:38.522-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:42:38.545-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:42:38.545-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:42:38.565-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:42:38.565-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:42:38.586-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.185 seconds
+[2022-09-05T21:43:15.503-0300] {processor.py:153} INFO - Started process (PID=8365) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:43:15.504-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:43:15.504-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:43:15.504-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:43:15.512-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:43:15.528-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:43:15.527-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:43:15.539-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:43:15.539-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:43:15.654-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2022-09-05T21:43:53.780-0300] {processor.py:153} INFO - Started process (PID=8588) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:43:53.781-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:43:53.782-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:43:53.782-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:43:53.791-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:43:53.809-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:43:53.809-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:43:53.825-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:43:53.824-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:43:53.941-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.166 seconds
+[2022-09-05T21:44:30.253-0300] {processor.py:153} INFO - Started process (PID=8628) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:44:30.255-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:44:30.256-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:44:30.256-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:44:30.267-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:44:30.284-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:44:30.284-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:44:30.300-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:44:30.300-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:44:30.318-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.068 seconds
+[2022-09-05T21:45:04.138-0300] {processor.py:153} INFO - Started process (PID=8668) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:45:04.139-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:45:04.140-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:45:04.140-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:45:04.150-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:45:04.174-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:45:04.174-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:45:04.195-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:45:04.195-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:45:04.209-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.074 seconds
+[2022-09-05T21:45:40.735-0300] {processor.py:153} INFO - Started process (PID=8711) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:45:40.738-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:45:40.739-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:45:40.739-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:45:40.751-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:45:40.772-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:45:40.772-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:45:40.789-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:45:40.788-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:45:40.802-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2022-09-05T21:46:15.579-0300] {processor.py:153} INFO - Started process (PID=8813) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:46:15.597-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:46:15.598-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:15.598-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:46:15.608-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:46:15.620-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:15.620-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:46:15.631-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:15.631-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:46:15.651-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.075 seconds
+[2022-09-05T21:46:52.285-0300] {processor.py:153} INFO - Started process (PID=8943) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:46:52.286-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:46:52.287-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:52.286-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:46:52.300-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:46:52.317-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:52.317-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:46:52.333-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:46:52.333-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:46:52.346-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds
+[2022-09-05T21:47:57.878-0300] {processor.py:153} INFO - Started process (PID=9057) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:47:57.879-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:47:57.879-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:57.879-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:47:57.887-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:47:57.903-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:57.903-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:47:57.918-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:57.918-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:47:57.945-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2022-09-05T21:48:36.359-0300] {processor.py:153} INFO - Started process (PID=9102) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:48:36.360-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:48:36.361-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:48:36.360-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:48:36.368-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:48:36.381-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:48:36.381-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:48:36.394-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:48:36.394-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:48:36.405-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2022-09-05T21:49:14.978-0300] {processor.py:153} INFO - Started process (PID=9199) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:49:14.978-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:49:14.979-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:14.979-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:49:14.991-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:49:15.016-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:15.016-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:49:15.035-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:15.035-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:49:15.049-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2022-09-05T21:49:48.314-0300] {processor.py:153} INFO - Started process (PID=9241) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:49:48.314-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:49:48.315-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:48.315-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:49:48.324-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:49:48.340-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:48.340-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:49:48.355-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:48.355-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:49:48.491-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.180 seconds
+[2022-09-05T21:50:21.181-0300] {processor.py:153} INFO - Started process (PID=9334) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:50:21.240-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:50:21.241-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:50:21.241-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:50:21.251-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:50:21.270-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:50:21.269-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:50:21.292-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:50:21.292-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:50:21.305-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.126 seconds
+[2022-09-05T21:50:55.696-0300] {processor.py:153} INFO - Started process (PID=9417) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:50:55.697-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:50:55.697-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:50:55.697-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:50:55.704-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:50:55.717-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:50:55.717-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:50:55.730-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:50:55.730-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:50:55.741-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2022-09-05T21:51:37.710-0300] {processor.py:153} INFO - Started process (PID=9470) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:51:37.811-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:51:37.811-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:37.811-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:51:37.824-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:51:37.841-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:37.841-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:51:37.861-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:37.861-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:51:37.881-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.174 seconds
+[2022-09-05T21:52:12.040-0300] {processor.py:153} INFO - Started process (PID=9529) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:52:12.055-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:52:12.056-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:12.056-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:52:12.069-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:52:12.089-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:12.089-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:52:12.106-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:12.106-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:52:12.120-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.084 seconds
+[2022-09-05T21:52:46.505-0300] {processor.py:153} INFO - Started process (PID=9597) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:52:46.506-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:52:46.507-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:46.506-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:52:46.514-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:52:46.527-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:46.527-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:52:46.541-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:46.541-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:52:46.552-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2022-09-05T21:53:23.003-0300] {processor.py:153} INFO - Started process (PID=9687) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:53:23.003-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:53:23.004-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:23.004-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:53:23.011-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:53:23.025-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:23.024-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:53:23.038-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:23.038-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:53:23.071-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2022-09-05T21:53:56.421-0300] {processor.py:153} INFO - Started process (PID=9728) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:53:56.422-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:53:56.422-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:56.422-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:53:56.432-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:53:56.458-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:56.458-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:53:56.476-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:56.476-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:53:56.492-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.074 seconds
+[2022-09-05T21:54:31.777-0300] {processor.py:153} INFO - Started process (PID=9801) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:54:31.793-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:54:31.794-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:31.793-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:54:31.806-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:54:31.824-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:31.823-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:54:31.844-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:31.843-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:54:31.856-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.083 seconds
+[2022-09-05T21:55:07.010-0300] {processor.py:153} INFO - Started process (PID=9850) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:55:07.011-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:55:07.011-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:07.011-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:55:07.019-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:55:07.034-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:07.034-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:55:07.047-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:07.047-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:55:07.059-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2022-09-05T21:55:43.748-0300] {processor.py:153} INFO - Started process (PID=9899) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:55:43.760-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:55:43.761-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:43.761-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:55:43.773-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:55:43.791-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:43.791-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:55:43.809-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:43.808-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:55:43.838-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.093 seconds
+[2022-09-05T21:56:17.216-0300] {processor.py:153} INFO - Started process (PID=9944) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:56:17.316-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:56:17.316-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:17.316-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:56:17.324-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:56:17.340-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:17.340-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:56:17.353-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:17.353-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:56:17.365-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.152 seconds
+[2022-09-05T21:56:52.146-0300] {processor.py:153} INFO - Started process (PID=10062) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:56:52.165-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:56:52.166-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:52.166-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:56:52.181-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:56:52.205-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:52.205-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:56:52.219-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:52.219-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:56:52.232-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2022-09-05T21:57:27.774-0300] {processor.py:153} INFO - Started process (PID=10165) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:57:27.782-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:57:27.783-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:27.783-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:57:27.794-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:57:27.817-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:27.817-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:57:27.838-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:27.837-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:57:27.861-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2022-09-05T21:58:05.761-0300] {processor.py:153} INFO - Started process (PID=10223) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:58:05.782-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:58:05.782-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:05.782-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:58:05.790-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:58:05.806-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:05.806-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:58:05.817-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:05.817-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:58:05.827-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.068 seconds
+[2022-09-05T21:58:40.430-0300] {processor.py:153} INFO - Started process (PID=10280) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:58:40.431-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:58:40.432-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:40.432-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:58:40.439-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:58:40.464-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:40.464-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:58:40.475-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:40.475-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:58:40.485-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2022-09-05T21:59:14.229-0300] {processor.py:153} INFO - Started process (PID=10345) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:59:14.230-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:59:14.230-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:14.230-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:59:14.238-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:59:14.252-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:14.252-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:59:14.264-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:14.264-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:59:14.274-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2022-09-05T21:59:50.278-0300] {processor.py:153} INFO - Started process (PID=10399) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:59:50.282-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T21:59:50.283-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:50.283-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:59:50.290-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T21:59:50.306-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:50.306-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:59:50.318-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:50.318-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T21:59:50.328-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2022-09-05T22:00:26.720-0300] {processor.py:153} INFO - Started process (PID=10525) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:00:26.721-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:00:26.722-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:26.722-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:00:26.730-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:00:26.756-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:26.756-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:00:26.778-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:26.778-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:00:26.795-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.078 seconds
+[2022-09-05T22:01:03.265-0300] {processor.py:153} INFO - Started process (PID=10641) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:01:03.266-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:01:03.267-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:03.267-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:01:03.275-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:01:03.289-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:03.289-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:01:03.301-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:03.300-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:01:03.312-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2022-09-05T22:01:38.994-0300] {processor.py:153} INFO - Started process (PID=10790) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:01:38.995-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:01:38.996-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:38.996-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:01:39.006-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:01:39.026-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:39.026-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:01:39.043-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:39.043-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:01:39.055-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds
+[2022-09-05T22:02:15.787-0300] {processor.py:153} INFO - Started process (PID=10876) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:02:15.811-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:02:15.812-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:15.812-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:02:15.820-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:02:15.835-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:15.835-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:02:15.847-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:15.847-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:02:15.867-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.083 seconds
+[2022-09-05T22:02:51.833-0300] {processor.py:153} INFO - Started process (PID=10918) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:02:51.834-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:02:51.834-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:51.834-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:02:51.842-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:02:51.857-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:51.857-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:02:51.875-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:51.875-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:02:51.890-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.060 seconds
+[2022-09-05T22:03:29.942-0300] {processor.py:153} INFO - Started process (PID=11031) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:03:29.949-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:03:29.952-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:29.952-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:03:29.969-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:03:30.001-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:30.001-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:03:30.025-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:30.025-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:03:30.047-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.108 seconds
+[2022-09-05T22:04:04.601-0300] {processor.py:153} INFO - Started process (PID=11138) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:04:04.602-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:04:04.603-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:04.603-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:04:04.611-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:04:04.636-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:04.636-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:04:04.648-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:04.648-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:04:04.659-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.060 seconds
+[2022-09-05T22:04:38.300-0300] {processor.py:153} INFO - Started process (PID=11221) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:04:38.301-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:04:38.302-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:38.302-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:04:38.334-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:04:38.371-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:38.371-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:04:38.403-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:38.401-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:04:38.425-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.132 seconds
+[2022-09-05T22:05:15.313-0300] {processor.py:153} INFO - Started process (PID=11291) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:05:15.320-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:05:15.320-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:15.320-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:05:15.330-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:05:15.348-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:15.348-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:05:15.362-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:15.361-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:05:15.376-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2022-09-05T22:05:49.551-0300] {processor.py:153} INFO - Started process (PID=11385) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:05:49.660-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:05:49.661-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:49.661-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:05:49.676-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:05:49.704-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:49.703-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:05:49.753-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:49.752-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:05:49.773-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.224 seconds
+[2022-09-05T22:06:26.131-0300] {processor.py:153} INFO - Started process (PID=11432) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:06:26.234-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:06:26.235-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:26.235-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:06:26.245-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:06:26.259-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:26.258-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:06:26.270-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:26.270-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:06:26.280-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.154 seconds
+[2022-09-05T22:07:02.795-0300] {processor.py:153} INFO - Started process (PID=11656) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:07:02.899-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:07:02.900-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:02.900-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:07:02.911-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:07:02.926-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:02.926-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:07:02.944-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:02.944-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:07:02.960-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.167 seconds
+[2022-09-05T22:07:36.190-0300] {processor.py:153} INFO - Started process (PID=11777) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:07:36.191-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:07:36.192-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:36.192-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:07:36.203-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:07:36.219-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:36.219-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:07:36.234-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:36.234-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:07:36.255-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2022-09-05T22:08:14.569-0300] {processor.py:153} INFO - Started process (PID=11901) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:08:14.570-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:08:14.570-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:14.570-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:08:14.583-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:08:14.599-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:14.599-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:08:14.615-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:14.615-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:08:14.628-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2022-09-05T22:08:49.567-0300] {processor.py:153} INFO - Started process (PID=11959) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:08:49.578-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:08:49.579-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:49.579-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:08:49.591-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:08:49.605-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:49.605-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:08:49.618-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:49.618-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:08:49.637-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.074 seconds
+[2022-09-05T22:09:23.502-0300] {processor.py:153} INFO - Started process (PID=12213) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:09:23.503-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:09:23.504-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:09:23.504-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:09:23.515-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:09:23.542-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:09:23.542-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:09:23.557-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:09:23.557-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:09:23.571-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2022-09-05T22:10:00.907-0300] {processor.py:153} INFO - Started process (PID=12319) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:10:00.907-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:10:00.908-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:00.908-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:10:00.917-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:10:00.957-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:00.956-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:10:00.973-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:00.973-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:10:00.990-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2022-09-05T22:10:34.068-0300] {processor.py:153} INFO - Started process (PID=12404) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:10:34.070-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:10:34.070-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:34.070-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:10:34.082-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:10:34.204-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:34.204-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:10:34.217-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:34.217-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:10:34.229-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.163 seconds
+[2022-09-05T22:11:11.645-0300] {processor.py:153} INFO - Started process (PID=12477) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:11:11.647-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:11:11.647-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:11.647-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:11:11.660-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:11:11.674-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:11.674-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:11:11.689-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:11.689-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:11:11.801-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.160 seconds
+[2022-09-05T22:11:48.401-0300] {processor.py:153} INFO - Started process (PID=12571) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:11:48.403-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:11:48.404-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:48.404-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:11:48.419-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:11:48.443-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:48.443-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:11:48.457-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:48.457-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:11:48.525-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.130 seconds
+[2022-09-05T22:12:26.854-0300] {processor.py:153} INFO - Started process (PID=12692) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:12:26.856-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:12:26.856-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:26.856-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:12:26.865-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:12:26.878-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:26.878-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:12:26.889-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:26.889-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:12:26.900-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2022-09-05T22:13:02.544-0300] {processor.py:153} INFO - Started process (PID=12760) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:13:02.556-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:13:02.556-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:02.556-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:13:02.564-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:13:02.577-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:02.577-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:13:02.589-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:02.589-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:13:02.623-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.081 seconds
+[2022-09-05T22:13:40.402-0300] {processor.py:153} INFO - Started process (PID=12811) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:13:40.402-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:13:40.403-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:40.403-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:13:40.411-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:13:40.424-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:40.424-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:13:40.436-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:40.435-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:13:40.540-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.141 seconds
+[2022-09-05T22:14:15.018-0300] {processor.py:153} INFO - Started process (PID=12882) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:14:15.018-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:14:15.019-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:15.019-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:14:15.028-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:14:15.043-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:15.043-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:14:15.056-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:15.056-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:14:15.068-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2022-09-05T22:14:51.712-0300] {processor.py:153} INFO - Started process (PID=13039) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:14:51.728-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:14:51.728-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:51.728-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:14:51.736-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:14:51.750-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:51.750-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:14:51.761-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:51.761-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:14:51.777-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2022-09-05T22:15:25.830-0300] {processor.py:153} INFO - Started process (PID=13144) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:15:25.831-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:15:25.832-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:25.831-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:15:25.840-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:15:25.854-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:25.854-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:15:25.868-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:25.867-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:15:25.994-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.166 seconds
+[2022-09-05T22:16:01.132-0300] {processor.py:153} INFO - Started process (PID=13316) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:16:01.133-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:16:01.134-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:01.134-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:16:01.144-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:16:01.159-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:01.159-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:16:01.172-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:01.172-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:16:01.185-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2022-09-05T22:16:34.706-0300] {processor.py:153} INFO - Started process (PID=13380) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:16:34.708-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:16:34.709-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:34.709-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:16:34.721-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:16:34.741-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:34.741-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:16:34.757-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:34.757-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:16:34.768-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2022-09-05T22:17:08.264-0300] {processor.py:153} INFO - Started process (PID=13526) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:17:08.265-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:17:08.265-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:08.265-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:17:08.273-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:17:08.286-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:08.286-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:17:08.298-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:08.298-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:17:08.401-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.139 seconds
+[2022-09-05T22:17:44.885-0300] {processor.py:153} INFO - Started process (PID=13608) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:17:44.885-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:17:44.886-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:44.886-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:17:44.896-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:17:44.916-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:44.916-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:17:44.936-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:44.935-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:17:44.954-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.074 seconds
+[2022-09-05T22:18:19.663-0300] {processor.py:153} INFO - Started process (PID=13734) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:18:19.763-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:18:19.764-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:19.764-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:18:19.772-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:18:19.786-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:19.786-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:18:19.800-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:19.800-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:18:19.818-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2022-09-05T22:18:57.185-0300] {processor.py:153} INFO - Started process (PID=13799) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:18:57.198-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:18:57.199-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:57.198-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:18:57.207-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:18:57.228-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:57.228-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:18:57.247-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:57.247-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:18:57.272-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2022-09-05T22:19:39.601-0300] {processor.py:153} INFO - Started process (PID=13850) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:19:39.602-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:19:39.603-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:39.603-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:19:39.614-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:19:39.634-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:39.634-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:19:39.655-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:39.655-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:19:39.785-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.187 seconds
+[2022-09-05T22:20:22.000-0300] {processor.py:153} INFO - Started process (PID=14102) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:20:22.091-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:20:22.092-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:22.092-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:20:22.112-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:20:22.136-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:22.136-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:20:22.158-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:22.158-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:20:22.195-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.201 seconds
+[2022-09-05T22:21:00.901-0300] {processor.py:153} INFO - Started process (PID=14165) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:21:00.903-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:21:00.904-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:00.904-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:21:00.915-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:21:00.942-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:00.941-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:21:00.967-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:00.967-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:21:01.070-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.173 seconds
+[2022-09-05T22:21:42.427-0300] {processor.py:153} INFO - Started process (PID=14215) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:21:42.449-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:21:42.449-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:42.449-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:21:42.459-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:21:42.475-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:42.474-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:21:42.489-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:42.489-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:21:42.505-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2022-09-05T22:22:25.793-0300] {processor.py:153} INFO - Started process (PID=14268) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:22:25.794-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:22:25.795-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:25.795-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:22:25.811-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:22:25.830-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:25.830-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:22:25.847-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:25.847-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:22:25.863-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2022-09-05T22:23:08.670-0300] {processor.py:153} INFO - Started process (PID=14320) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:23:08.682-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:23:08.682-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:08.682-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:23:08.691-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:23:08.708-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:08.708-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:23:08.722-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:08.722-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:23:08.735-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2022-09-05T22:23:49.725-0300] {processor.py:153} INFO - Started process (PID=14369) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:23:49.726-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:23:49.727-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:49.727-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:23:49.735-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:23:49.749-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:49.749-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:23:49.761-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:49.761-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:23:49.773-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2022-09-05T22:24:31.120-0300] {processor.py:153} INFO - Started process (PID=14417) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:24:31.120-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:24:31.121-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:31.121-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:24:31.129-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:24:31.143-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:31.143-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:24:31.156-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:31.156-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:24:31.265-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.148 seconds
+[2022-09-05T22:25:11.174-0300] {processor.py:153} INFO - Started process (PID=14467) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:25:11.272-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:25:11.272-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:11.272-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:25:11.280-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:25:11.296-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:11.296-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:25:11.310-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:11.310-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:25:11.323-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.151 seconds
+[2022-09-05T22:25:54.646-0300] {processor.py:153} INFO - Started process (PID=14518) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:25:54.647-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:25:54.647-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:54.647-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:25:54.655-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:25:54.669-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:54.669-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:25:54.682-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:54.681-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:25:54.797-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2022-09-05T22:26:34.885-0300] {processor.py:153} INFO - Started process (PID=14564) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:26:34.886-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:26:34.886-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:34.886-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:26:34.898-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:26:34.916-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:34.916-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:26:34.935-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:34.934-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:26:34.949-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2022-09-05T22:27:19.931-0300] {processor.py:153} INFO - Started process (PID=14845) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:27:20.040-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:27:20.040-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:20.040-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:27:20.049-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:27:20.065-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:20.065-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:27:20.077-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:20.077-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:27:20.088-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.160 seconds
+[2022-09-05T22:28:02.642-0300] {processor.py:153} INFO - Started process (PID=14896) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:28:02.643-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:28:02.644-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:02.644-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:28:02.654-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:28:02.674-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:02.674-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:28:02.690-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:02.690-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:28:02.703-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds
+[2022-09-05T22:28:42.007-0300] {processor.py:153} INFO - Started process (PID=14944) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:28:42.008-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:28:42.009-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:42.009-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:28:42.017-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:28:42.036-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:42.036-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:28:42.053-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:42.053-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:28:42.069-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds
+[2022-09-05T22:29:19.309-0300] {processor.py:153} INFO - Started process (PID=14995) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:29:19.310-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:29:19.311-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:19.311-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:29:19.319-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:29:19.336-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:19.336-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:29:19.351-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:19.351-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:29:19.463-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2022-09-05T22:29:57.649-0300] {processor.py:153} INFO - Started process (PID=15039) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:29:57.650-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:29:57.650-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:57.650-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:29:57.659-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:29:57.673-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:57.672-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:29:57.686-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:57.686-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:29:57.699-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.052 seconds
+[2022-09-05T22:30:35.741-0300] {processor.py:153} INFO - Started process (PID=15094) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:30:35.741-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:30:35.742-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:35.742-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:30:35.751-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:30:35.765-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:35.765-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:30:35.777-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:35.777-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:30:35.792-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2022-09-05T22:31:22.335-0300] {processor.py:153} INFO - Started process (PID=15154) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:31:22.336-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:31:22.337-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:22.337-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:31:22.346-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:31:22.364-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:22.363-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:31:22.379-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:22.379-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:31:22.392-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2022-09-05T22:32:17.586-0300] {processor.py:153} INFO - Started process (PID=15366) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:32:17.587-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:32:17.587-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:17.587-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:32:17.595-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:32:17.608-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:17.608-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:32:17.620-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:17.620-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:32:17.726-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.142 seconds
+[2022-09-05T22:33:01.827-0300] {processor.py:153} INFO - Started process (PID=15577) to work on /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:33:01.828-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-09-05T22:33:01.829-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:01.829-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:33:01.840-0300] {processor.py:650} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2022-09-05T22:33:01.858-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:01.858-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:33:01.876-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:01.875-0300] {dag.py:2977} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-09-05T22:33:01.889-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds

@@ -1,0 +1,530 @@
+[2022-09-05T21:51:14.195-0300] {processor.py:153} INFO - Started process (PID=9439) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:51:14.196-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:51:14.197-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:14.196-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:51:14.202-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:51:14.374-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:14.374-0300] {manager.py:508} INFO - Created Permission View: can read on DAG:insert_dw
+[2022-09-05T21:51:14.382-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:14.382-0300] {manager.py:508} INFO - Created Permission View: can delete on DAG:insert_dw
+[2022-09-05T21:51:14.388-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:14.388-0300] {manager.py:508} INFO - Created Permission View: can edit on DAG:insert_dw
+[2022-09-05T21:51:14.388-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:14.388-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:51:14.393-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:14.393-0300] {dag.py:2448} INFO - Creating ORM DAG for insert_dw
+[2022-09-05T21:51:14.399-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:14.399-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-05T00:51:14.399630+00:00, run_after=2022-09-06T00:51:14.399630+00:00
+[2022-09-05T21:51:14.431-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.239 seconds
+[2022-09-05T21:51:47.872-0300] {processor.py:153} INFO - Started process (PID=9483) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:51:47.874-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:51:47.875-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:47.875-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:51:47.882-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:51:47.892-0300] {processor.py:370} INFO - Running SLA Checks for insert_dw
+[2022-09-05T21:51:47.920-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:47.919-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:51:47.930-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:47.930-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T21:51:47.943-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.074 seconds
+[2022-09-05T21:52:21.158-0300] {processor.py:153} INFO - Started process (PID=9560) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:52:21.204-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:52:21.213-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:21.212-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:52:21.228-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:52:21.265-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:21.263-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:52:21.302-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:21.302-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T21:52:21.346-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.193 seconds
+[2022-09-05T21:52:57.759-0300] {processor.py:153} INFO - Started process (PID=9613) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:52:57.760-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:52:57.761-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:57.761-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:52:57.769-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:52:57.784-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:57.784-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:52:57.806-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:57.806-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T21:52:57.826-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.071 seconds
+[2022-09-05T21:53:31.025-0300] {processor.py:153} INFO - Started process (PID=9697) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:53:31.051-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:53:31.052-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:31.052-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:53:31.057-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:53:31.092-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:31.092-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:53:31.120-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:31.120-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T21:53:31.136-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.114 seconds
+[2022-09-05T21:54:04.538-0300] {processor.py:153} INFO - Started process (PID=9736) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:54:04.538-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:54:04.539-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:04.539-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:54:04.544-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:54:04.555-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:04.555-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:54:04.573-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:04.573-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T21:54:04.584-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.048 seconds
+[2022-09-05T21:54:38.992-0300] {processor.py:153} INFO - Started process (PID=9809) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:54:38.993-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:54:38.994-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:38.994-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:54:39.002-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:54:39.017-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:39.016-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:54:39.034-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:39.034-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T21:54:39.048-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.059 seconds
+[2022-09-05T21:55:10.790-0300] {processor.py:153} INFO - Started process (PID=9854) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:55:10.791-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:55:10.791-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:10.791-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:55:10.801-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:55:10.821-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:10.821-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:55:10.843-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:10.843-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T21:55:10.871-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.085 seconds
+[2022-09-05T21:55:41.154-0300] {processor.py:153} INFO - Started process (PID=9896) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:55:41.167-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:55:41.167-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:41.167-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:55:41.174-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:55:41.189-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:41.188-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:55:41.210-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:41.210-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T21:55:41.235-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.086 seconds
+[2022-09-05T21:56:14.824-0300] {processor.py:153} INFO - Started process (PID=9941) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:56:14.915-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:56:14.915-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:14.915-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:56:14.922-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:56:14.933-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:14.933-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:56:14.948-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:14.948-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T21:56:14.960-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.138 seconds
+[2022-09-05T21:56:48.361-0300] {processor.py:153} INFO - Started process (PID=10040) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:56:48.362-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:56:48.362-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:48.362-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:56:48.368-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:56:48.379-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:48.379-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:56:48.393-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:48.393-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T21:56:48.404-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.045 seconds
+[2022-09-05T21:57:19.398-0300] {processor.py:153} INFO - Started process (PID=10138) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:57:19.411-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:57:19.412-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:19.412-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:57:19.417-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:57:19.429-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:19.428-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:57:19.442-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:19.442-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T21:57:19.452-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.056 seconds
+[2022-09-05T21:57:54.857-0300] {processor.py:153} INFO - Started process (PID=10210) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:57:54.867-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:57:54.867-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:54.867-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:57:54.873-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:57:54.887-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:54.887-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:57:54.901-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:54.901-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T21:57:54.911-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.056 seconds
+[2022-09-05T21:58:28.913-0300] {processor.py:153} INFO - Started process (PID=10264) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:58:28.914-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:58:28.915-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:28.915-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:58:28.922-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:58:28.937-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:28.936-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:58:28.956-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:28.956-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T21:58:28.970-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.061 seconds
+[2022-09-05T21:58:59.201-0300] {processor.py:153} INFO - Started process (PID=10328) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:58:59.212-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:58:59.213-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:59.212-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:58:59.221-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:58:59.236-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:59.236-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:58:59.255-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:59.255-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T21:58:59.277-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.078 seconds
+[2022-09-05T21:59:30.441-0300] {processor.py:153} INFO - Started process (PID=10375) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:59:30.441-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T21:59:30.442-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:30.442-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:59:30.450-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T21:59:30.464-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:30.464-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:59:30.482-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:30.482-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T21:59:30.515-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.078 seconds
+[2022-09-05T22:00:03.496-0300] {processor.py:153} INFO - Started process (PID=10498) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:00:03.496-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:00:03.497-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:03.497-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:00:03.502-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:00:03.513-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:03.513-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:00:03.528-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:03.528-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:00:03.565-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.071 seconds
+[2022-09-05T22:00:34.841-0300] {processor.py:153} INFO - Started process (PID=10546) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:00:34.943-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:00:34.943-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:34.943-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:00:34.951-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:00:34.973-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:34.972-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:00:35.004-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:35.003-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:00:35.026-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.188 seconds
+[2022-09-05T22:01:09.457-0300] {processor.py:153} INFO - Started process (PID=10652) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:01:09.458-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:01:09.458-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:09.458-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:01:09.467-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:01:09.483-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:09.482-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:01:09.505-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:09.505-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:01:09.521-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.067 seconds
+[2022-09-05T22:01:41.070-0300] {processor.py:153} INFO - Started process (PID=10792) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:01:41.071-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:01:41.071-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:41.071-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:01:41.077-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:01:41.091-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:41.091-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:01:41.103-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:41.103-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:01:41.119-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.051 seconds
+[2022-09-05T22:02:14.380-0300] {processor.py:153} INFO - Started process (PID=10873) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:02:14.381-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:02:14.382-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:14.381-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:02:14.387-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:02:14.399-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:14.399-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:02:14.411-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:14.411-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:02:14.436-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.059 seconds
+[2022-09-05T22:02:44.829-0300] {processor.py:153} INFO - Started process (PID=10911) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:02:44.830-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:02:44.830-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:44.830-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:02:44.836-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:02:44.849-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:44.848-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:02:44.860-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:44.860-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:02:44.870-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.043 seconds
+[2022-09-05T22:03:18.990-0300] {processor.py:153} INFO - Started process (PID=10978) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:03:18.991-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:03:18.991-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:18.991-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:03:18.997-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:03:19.017-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:19.017-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:03:19.031-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:19.031-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:03:19.040-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.052 seconds
+[2022-09-05T22:03:54.417-0300] {processor.py:153} INFO - Started process (PID=11113) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:03:54.545-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:03:54.545-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:54.545-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:03:54.552-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:03:54.566-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:54.566-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:03:54.580-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:54.580-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:03:54.590-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.175 seconds
+[2022-09-05T22:04:26.973-0300] {processor.py:153} INFO - Started process (PID=11195) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:04:26.975-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:04:26.976-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:26.976-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:04:26.983-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:04:26.999-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:26.999-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:04:27.018-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:27.018-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:04:27.030-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.061 seconds
+[2022-09-05T22:04:58.333-0300] {processor.py:153} INFO - Started process (PID=11268) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:04:58.359-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:04:58.360-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:58.360-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:04:58.366-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:04:58.380-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:58.380-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:04:58.394-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:58.394-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:04:58.416-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.084 seconds
+[2022-09-05T22:05:34.740-0300] {processor.py:153} INFO - Started process (PID=11344) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:05:34.842-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:05:34.842-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:34.842-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:05:34.847-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:05:34.860-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:34.860-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:05:34.875-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:34.875-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:05:34.890-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.152 seconds
+[2022-09-05T22:06:08.542-0300] {processor.py:153} INFO - Started process (PID=11408) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:06:08.543-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:06:08.543-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:08.543-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:06:08.549-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:06:08.563-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:08.563-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:06:08.576-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:08.575-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:06:08.586-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.047 seconds
+[2022-09-05T22:06:43.435-0300] {processor.py:153} INFO - Started process (PID=11614) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:06:43.435-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:06:43.436-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:43.436-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:06:43.446-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:06:43.458-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:43.458-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:06:43.475-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:43.474-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:06:43.501-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.068 seconds
+[2022-09-05T22:07:16.915-0300] {processor.py:153} INFO - Started process (PID=11724) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:07:16.917-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:07:16.917-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:16.917-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:07:16.928-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:07:16.955-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:16.954-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:07:16.981-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:16.981-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:07:16.999-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.086 seconds
+[2022-09-05T22:07:50.513-0300] {processor.py:153} INFO - Started process (PID=11860) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:07:50.514-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:07:50.514-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:50.514-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:07:50.529-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:07:50.547-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:50.547-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:07:50.563-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:50.563-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:07:50.589-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.080 seconds
+[2022-09-05T22:08:22.674-0300] {processor.py:153} INFO - Started process (PID=11914) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:08:22.686-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:08:22.686-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:22.686-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:08:22.695-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:08:22.707-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:22.707-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:08:22.721-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:22.721-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:08:22.735-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.064 seconds
+[2022-09-05T22:08:57.284-0300] {processor.py:153} INFO - Started process (PID=11969) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:08:57.303-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:08:57.304-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:57.304-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:08:57.329-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:08:57.343-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:57.343-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:08:57.356-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:57.356-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:08:57.379-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.099 seconds
+[2022-09-05T22:09:31.001-0300] {processor.py:153} INFO - Started process (PID=12242) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:09:31.001-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:09:31.002-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:09:31.002-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:09:31.011-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:09:31.023-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:09:31.022-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:09:31.035-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:09:31.035-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:09:31.051-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.054 seconds
+[2022-09-05T22:10:03.886-0300] {processor.py:153} INFO - Started process (PID=12338) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:10:03.903-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:10:03.904-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:03.904-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:10:03.930-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:10:03.945-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:03.945-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:10:03.964-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:03.964-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:10:03.982-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.100 seconds
+[2022-09-05T22:10:36.223-0300] {processor.py:153} INFO - Started process (PID=12406) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:10:36.224-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:10:36.224-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:36.224-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:10:36.233-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:10:36.245-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:36.245-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:10:36.258-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:36.258-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:10:36.285-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.065 seconds
+[2022-09-05T22:11:08.914-0300] {processor.py:153} INFO - Started process (PID=12461) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:11:08.926-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:11:08.927-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:08.927-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:11:08.934-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:11:08.945-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:08.944-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:11:08.956-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:08.956-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:11:08.981-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.069 seconds
+[2022-09-05T22:11:44.295-0300] {processor.py:153} INFO - Started process (PID=12555) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:11:44.296-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:11:44.296-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:44.296-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:11:44.302-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:11:44.313-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:44.313-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:11:44.325-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:44.325-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:11:44.456-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.163 seconds
+[2022-09-05T22:12:17.432-0300] {processor.py:153} INFO - Started process (PID=12668) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:12:17.432-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:12:17.433-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:17.433-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:12:17.440-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:12:17.460-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:17.460-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:12:17.481-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:17.481-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:12:17.495-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.069 seconds
+[2022-09-05T22:12:50.212-0300] {processor.py:153} INFO - Started process (PID=12741) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:12:50.213-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:12:50.214-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:50.214-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:12:50.221-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:12:50.237-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:50.237-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:12:50.255-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:50.255-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:12:50.366-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.156 seconds
+[2022-09-05T22:13:25.811-0300] {processor.py:153} INFO - Started process (PID=12790) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:13:25.812-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:13:25.813-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:25.813-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:13:25.818-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:13:25.829-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:25.829-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:13:25.840-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:25.840-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:13:25.857-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.048 seconds
+[2022-09-05T22:13:59.426-0300] {processor.py:153} INFO - Started process (PID=12860) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:13:59.427-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:13:59.428-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:59.427-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:13:59.434-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:13:59.448-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:59.448-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:13:59.462-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:59.461-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:13:59.473-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.049 seconds
+[2022-09-05T22:14:33.173-0300] {processor.py:153} INFO - Started process (PID=12918) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:14:33.178-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:14:33.179-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:33.179-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:14:33.187-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:14:33.211-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:33.211-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:14:33.224-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:33.224-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:14:33.237-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.066 seconds
+[2022-09-05T22:15:05.642-0300] {processor.py:153} INFO - Started process (PID=13063) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:15:05.643-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:15:05.644-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:05.644-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:15:05.651-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:15:05.670-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:05.670-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:15:05.687-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:05.686-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:15:05.698-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.060 seconds
+[2022-09-05T22:15:38.141-0300] {processor.py:153} INFO - Started process (PID=13180) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:15:38.243-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:15:38.244-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:38.244-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:15:38.253-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:15:38.269-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:38.269-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:15:38.286-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:38.286-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:15:38.298-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.160 seconds
+[2022-09-05T22:16:12.177-0300] {processor.py:153} INFO - Started process (PID=13328) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:16:12.192-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:16:12.193-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:12.192-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:16:12.200-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:16:12.218-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:12.218-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:16:12.237-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:12.236-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:16:12.258-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.083 seconds
+[2022-09-05T22:16:43.297-0300] {processor.py:153} INFO - Started process (PID=13439) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:16:43.299-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:16:43.300-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:43.300-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:16:43.309-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:16:43.327-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:43.327-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:16:43.347-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:43.347-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:16:43.375-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.080 seconds
+[2022-09-05T22:17:17.506-0300] {processor.py:153} INFO - Started process (PID=13575) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:17:17.555-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:17:17.556-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:17.556-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:17:17.561-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:17:17.574-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:17.574-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:17:17.591-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:17.591-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:17:17.608-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.104 seconds
+[2022-09-05T22:17:51.935-0300] {processor.py:153} INFO - Started process (PID=13655) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:17:51.936-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:17:51.936-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:51.936-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:17:51.942-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:17:51.960-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:51.959-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:17:51.980-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:51.980-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:17:51.993-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.061 seconds
+[2022-09-05T22:18:22.194-0300] {processor.py:153} INFO - Started process (PID=13739) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:18:22.195-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:18:22.196-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:22.196-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:18:22.204-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:18:22.322-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:22.319-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:18:22.358-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:22.358-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:18:22.381-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.191 seconds
+[2022-09-05T22:19:02.326-0300] {processor.py:153} INFO - Started process (PID=13804) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:19:02.334-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:19:02.335-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:02.335-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:19:02.340-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:19:02.351-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:02.351-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:19:02.363-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:02.363-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:19:02.373-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.050 seconds
+[2022-09-05T22:19:33.313-0300] {processor.py:153} INFO - Started process (PID=13844) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:19:33.319-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:19:33.320-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:33.320-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:19:33.327-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:19:33.339-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:33.339-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:19:33.359-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:33.359-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:19:33.373-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.063 seconds
+[2022-09-05T22:20:05.456-0300] {processor.py:153} INFO - Started process (PID=14030) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:20:05.457-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:20:05.457-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:05.457-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:20:05.462-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:20:05.484-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:05.484-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:20:05.500-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:05.499-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:20:05.525-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.071 seconds
+[2022-09-05T22:20:39.900-0300] {processor.py:153} INFO - Started process (PID=14137) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:20:39.901-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:20:39.901-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:39.901-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:20:39.908-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:20:39.923-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:39.923-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:20:39.938-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:39.937-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:20:39.948-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.052 seconds
+[2022-09-05T22:21:14.427-0300] {processor.py:153} INFO - Started process (PID=14182) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:21:14.428-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:21:14.428-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:14.428-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:21:14.433-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:21:14.446-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:14.446-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:21:14.459-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:14.459-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:21:14.493-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.069 seconds
+[2022-09-05T22:21:44.914-0300] {processor.py:153} INFO - Started process (PID=14218) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:21:44.915-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:21:44.915-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:44.915-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:21:44.923-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:21:44.946-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:44.946-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:21:44.965-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:44.965-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:21:44.983-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.071 seconds
+[2022-09-05T22:22:20.121-0300] {processor.py:153} INFO - Started process (PID=14261) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:22:20.223-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:22:20.224-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:20.224-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:22:20.231-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:22:20.245-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:20.245-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:22:20.261-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:20.261-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:22:20.290-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.172 seconds
+[2022-09-05T22:22:52.062-0300] {processor.py:153} INFO - Started process (PID=14299) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:22:52.063-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:22:52.065-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:52.064-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:22:52.079-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:22:52.114-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:52.114-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:22:52.145-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:52.145-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:22:52.202-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.145 seconds
+[2022-09-05T22:23:28.923-0300] {processor.py:153} INFO - Started process (PID=14344) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:23:28.924-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:23:28.925-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:28.924-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:23:28.929-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:23:28.941-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:28.941-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:23:28.954-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:28.953-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:23:28.984-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.063 seconds
+[2022-09-05T22:24:01.078-0300] {processor.py:153} INFO - Started process (PID=14381) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:24:01.079-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:24:01.079-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:01.079-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:24:01.086-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:24:01.099-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:01.099-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:24:01.113-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:01.113-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:24:01.222-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.148 seconds
+[2022-09-05T22:24:35.193-0300] {processor.py:153} INFO - Started process (PID=14421) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:24:35.194-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:24:35.195-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:35.194-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:24:35.201-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:24:35.213-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:35.213-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:24:35.226-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:35.226-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:24:35.238-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.047 seconds
+[2022-09-05T22:25:16.297-0300] {processor.py:153} INFO - Started process (PID=14475) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:25:16.400-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:25:16.401-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:16.400-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:25:16.406-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:25:16.417-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:16.417-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:25:16.429-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:16.429-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:25:16.439-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.144 seconds
+[2022-09-05T22:25:48.802-0300] {processor.py:153} INFO - Started process (PID=14512) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:25:48.803-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:25:48.803-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:48.803-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:25:48.808-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:25:48.823-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:48.822-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:25:48.838-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:48.838-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:25:48.947-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.147 seconds
+[2022-09-05T22:26:28.516-0300] {processor.py:153} INFO - Started process (PID=14558) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:26:28.518-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:26:28.518-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:28.518-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:26:28.525-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:26:28.541-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:28.541-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:26:28.563-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:28.562-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:26:28.577-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.064 seconds
+[2022-09-05T22:27:09.507-0300] {processor.py:153} INFO - Started process (PID=14825) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:27:09.508-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:27:09.509-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:09.508-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:27:09.514-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:27:09.526-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:09.526-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:27:09.540-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:09.540-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:27:09.649-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.144 seconds
+[2022-09-05T22:27:48.142-0300] {processor.py:153} INFO - Started process (PID=14881) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:27:48.142-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:27:48.143-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:48.143-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:27:48.150-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:27:48.165-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:48.165-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:27:48.183-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:48.182-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:27:48.203-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.065 seconds
+[2022-09-05T22:28:25.614-0300] {processor.py:153} INFO - Started process (PID=14928) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:28:25.713-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:28:25.715-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:25.714-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:28:25.723-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:28:25.739-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:25.739-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:28:25.756-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:25.756-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:28:25.770-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.161 seconds
+[2022-09-05T22:28:57.098-0300] {processor.py:153} INFO - Started process (PID=14966) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:28:57.099-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:28:57.099-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:57.099-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:28:57.104-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:28:57.116-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:57.115-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:28:57.128-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:57.128-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:28:57.141-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.045 seconds
+[2022-09-05T22:29:31.017-0300] {processor.py:153} INFO - Started process (PID=15009) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:29:31.018-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:29:31.018-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:31.018-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:29:31.023-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:29:31.034-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:31.034-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:29:31.046-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:31.046-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:29:31.058-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.043 seconds
+[2022-09-05T22:30:11.657-0300] {processor.py:153} INFO - Started process (PID=15063) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:30:11.658-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:30:11.658-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:11.658-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:30:11.663-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:30:11.676-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:11.675-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:30:11.688-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:11.688-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:30:11.705-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.051 seconds
+[2022-09-05T22:30:46.151-0300] {processor.py:153} INFO - Started process (PID=15112) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:30:46.195-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:30:46.196-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:46.195-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:30:46.201-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:30:46.214-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:46.213-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:30:46.227-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:46.227-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:30:46.243-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.095 seconds
+[2022-09-05T22:31:27.332-0300] {processor.py:153} INFO - Started process (PID=15158) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:31:27.334-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:31:27.334-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:27.334-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:31:27.341-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:31:27.358-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:27.358-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:31:27.374-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:27.374-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:31:27.496-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.168 seconds
+[2022-09-05T22:32:11.310-0300] {processor.py:153} INFO - Started process (PID=15351) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:32:11.311-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:32:11.312-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:11.312-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:32:11.319-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:32:11.335-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:11.335-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:32:11.354-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:11.354-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:32:11.368-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.061 seconds
+[2022-09-05T22:32:55.472-0300] {processor.py:153} INFO - Started process (PID=15569) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:32:55.498-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:32:55.498-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:55.498-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:32:55.504-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:32:55.519-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:55.519-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:32:55.534-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:55.534-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:32:55.608-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.143 seconds
+[2022-09-05T22:33:33.634-0300] {processor.py:153} INFO - Started process (PID=15794) to work on /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:33:33.635-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/dw_dag.py for tasks to queue
+[2022-09-05T22:33:33.636-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:33.636-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:33:33.653-0300] {processor.py:650} INFO - DAG(s) dict_keys(['insert_dw']) retrieved from /home/debian/datapipelines/airflow/dags/dw_dag.py
+[2022-09-05T22:33:33.682-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:33.681-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:33:33.709-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:33.708-0300] {dag.py:2977} INFO - Setting next_dagrun for insert_dw to 2022-09-06T00:51:14.399630+00:00, run_after=2022-09-07T00:51:14.399630+00:00
+[2022-09-05T22:33:33.727-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/dw_dag.py took 0.101 seconds

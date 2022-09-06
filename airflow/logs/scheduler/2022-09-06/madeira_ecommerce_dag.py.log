@@ -1,0 +1,579 @@
+[2022-09-05T21:47:31.136-0300] {processor.py:153} INFO - Started process (PID=9024) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:47:31.137-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:47:31.137-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:31.137-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:47:31.180-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:47:31.230-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:31.229-0300] {manager.py:508} INFO - Created Permission View: can edit on DAG:madeira_prices
+[2022-09-05T21:47:31.236-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:31.236-0300] {manager.py:508} INFO - Created Permission View: can read on DAG:madeira_prices
+[2022-09-05T21:47:31.241-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:31.241-0300] {manager.py:508} INFO - Created Permission View: can delete on DAG:madeira_prices
+[2022-09-05T21:47:31.241-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:31.241-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:47:31.246-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:31.246-0300] {dag.py:2448} INFO - Creating ORM DAG for madeira_prices
+[2022-09-05T21:47:31.252-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:47:31.252-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-05T00:47:31.251819+00:00, run_after=2022-09-06T00:47:31.251819+00:00
+[2022-09-05T21:47:31.268-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.134 seconds
+[2022-09-05T21:48:09.384-0300] {processor.py:153} INFO - Started process (PID=9074) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:48:09.385-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:48:09.385-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:48:09.385-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:48:09.419-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:48:09.431-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:48:09.431-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:48:09.447-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:48:09.447-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-05T00:48:09.447180+00:00, run_after=2022-09-06T00:48:09.447180+00:00
+[2022-09-05T21:48:09.461-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.079 seconds
+[2022-09-05T21:48:41.418-0300] {processor.py:153} INFO - Started process (PID=9129) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:48:41.419-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:48:41.420-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:48:41.420-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:48:41.462-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:48:41.475-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:48:41.474-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:48:41.491-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:48:41.491-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-05T00:48:41.490837+00:00, run_after=2022-09-06T00:48:41.490837+00:00
+[2022-09-05T21:48:41.540-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.126 seconds
+[2022-09-05T21:49:12.442-0300] {processor.py:153} INFO - Started process (PID=9195) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:49:12.455-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:49:12.456-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:12.456-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:49:12.506-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:49:12.523-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:12.523-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:49:12.547-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:12.547-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-05T00:49:12.546957+00:00, run_after=2022-09-06T00:49:12.546957+00:00
+[2022-09-05T21:49:12.571-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.132 seconds
+[2022-09-05T21:49:24.549-0300] {processor.py:153} INFO - Started process (PID=9213) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:49:24.550-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:49:24.550-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:24.550-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:49:24.603-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:49:24.615-0300] {processor.py:370} INFO - Running SLA Checks for madeira_prices
+[2022-09-05T21:49:24.652-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:24.652-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:49:24.665-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:24.665-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:49:24.681-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.134 seconds
+[2022-09-05T21:49:56.884-0300] {processor.py:153} INFO - Started process (PID=9253) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:49:56.900-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:49:56.900-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:56.900-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:49:56.931-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:49:56.941-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:56.941-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:49:56.953-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:49:56.953-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:49:56.979-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.098 seconds
+[2022-09-05T21:50:28.312-0300] {processor.py:153} INFO - Started process (PID=9342) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:50:28.313-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:50:28.313-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:50:28.313-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:50:28.345-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:50:28.355-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:50:28.355-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:50:28.367-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:50:28.367-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:50:28.378-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.068 seconds
+[2022-09-05T21:51:17.169-0300] {processor.py:153} INFO - Started process (PID=9441) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:51:17.271-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:51:17.272-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:17.272-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:51:17.330-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:51:17.350-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:17.350-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:51:17.373-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:17.373-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:51:17.391-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.225 seconds
+[2022-09-05T21:51:49.819-0300] {processor.py:153} INFO - Started process (PID=9485) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:51:49.820-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:51:49.822-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:49.821-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:51:49.871-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:51:49.886-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:49.886-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:51:49.904-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:51:49.904-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:51:49.916-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.100 seconds
+[2022-09-05T21:52:23.248-0300] {processor.py:153} INFO - Started process (PID=9565) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:52:23.250-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:52:23.251-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:23.251-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:52:23.327-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:52:23.353-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:23.353-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:52:23.368-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:23.368-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:52:23.378-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.135 seconds
+[2022-09-05T21:52:59.383-0300] {processor.py:153} INFO - Started process (PID=9615) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:52:59.391-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:52:59.392-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:59.392-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:52:59.429-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:52:59.440-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:59.440-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:52:59.454-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:52:59.453-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:52:59.463-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.082 seconds
+[2022-09-05T21:53:33.113-0300] {processor.py:153} INFO - Started process (PID=9699) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:53:33.125-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:53:33.126-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:33.125-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:53:33.189-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:53:33.211-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:33.211-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:53:33.250-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:53:33.249-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:53:33.271-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.161 seconds
+[2022-09-05T21:54:05.832-0300] {processor.py:153} INFO - Started process (PID=9738) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:54:05.833-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:54:05.833-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:05.833-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:54:05.876-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:54:05.890-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:05.890-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:54:05.911-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:05.910-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:54:05.926-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.096 seconds
+[2022-09-05T21:54:41.050-0300] {processor.py:153} INFO - Started process (PID=9811) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:54:41.151-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:54:41.152-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:41.151-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:54:41.183-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:54:41.192-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:41.192-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:54:41.204-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:54:41.204-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:54:41.230-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.184 seconds
+[2022-09-05T21:55:14.991-0300] {processor.py:153} INFO - Started process (PID=9862) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:55:14.992-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:55:14.992-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:14.992-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:55:15.028-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:55:15.039-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:15.038-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:55:15.055-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:15.054-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:55:15.065-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.077 seconds
+[2022-09-05T21:55:48.149-0300] {processor.py:153} INFO - Started process (PID=9904) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:55:48.162-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:55:48.163-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:48.163-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:55:48.208-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:55:48.222-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:48.221-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:55:48.239-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:55:48.239-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:55:48.252-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.107 seconds
+[2022-09-05T21:56:21.766-0300] {processor.py:153} INFO - Started process (PID=9949) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:56:21.790-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:56:21.791-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:21.791-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:56:21.826-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:56:21.836-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:21.836-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:56:21.851-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:21.851-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:56:21.864-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.101 seconds
+[2022-09-05T21:56:54.099-0300] {processor.py:153} INFO - Started process (PID=10064) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:56:54.100-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:56:54.100-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:54.100-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:56:54.135-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:56:54.146-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:54.146-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:56:54.159-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:56:54.159-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:56:54.240-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.144 seconds
+[2022-09-05T21:57:25.471-0300] {processor.py:153} INFO - Started process (PID=10148) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:57:25.569-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:57:25.570-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:25.570-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:57:25.608-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:57:25.620-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:25.619-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:57:25.633-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:57:25.633-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:57:25.644-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.176 seconds
+[2022-09-05T21:58:01.025-0300] {processor.py:153} INFO - Started process (PID=10217) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:58:01.091-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:58:01.092-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:01.092-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:58:01.129-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:58:01.139-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:01.139-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:58:01.155-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:01.154-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:58:01.165-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.144 seconds
+[2022-09-05T21:58:33.470-0300] {processor.py:153} INFO - Started process (PID=10270) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:58:33.488-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:58:33.488-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:33.488-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:58:33.551-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:58:33.564-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:33.564-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:58:33.582-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:58:33.582-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:58:33.593-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.126 seconds
+[2022-09-05T21:59:06.967-0300] {processor.py:153} INFO - Started process (PID=10337) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:59:06.977-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:59:06.978-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:06.978-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:59:07.010-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:59:07.020-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:07.020-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:59:07.035-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:07.035-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:59:07.063-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.098 seconds
+[2022-09-05T21:59:38.180-0300] {processor.py:153} INFO - Started process (PID=10385) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:59:38.180-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T21:59:38.181-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:38.181-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:59:38.217-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T21:59:38.228-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:38.228-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T21:59:38.243-0300] {logging_mixin.py:115} INFO - [2022-09-05T21:59:38.243-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T21:59:38.275-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.098 seconds
+[2022-09-05T22:00:09.556-0300] {processor.py:153} INFO - Started process (PID=10505) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:00:09.571-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:00:09.571-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:09.571-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:00:09.605-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:00:09.616-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:09.615-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:00:09.629-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:09.629-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:00:09.640-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.086 seconds
+[2022-09-05T22:00:44.561-0300] {processor.py:153} INFO - Started process (PID=10582) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:00:44.562-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:00:44.563-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:44.563-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:00:44.613-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:00:44.627-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:44.627-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:00:44.645-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:00:44.645-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:00:44.658-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.100 seconds
+[2022-09-05T22:01:19.675-0300] {processor.py:153} INFO - Started process (PID=10701) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:01:19.676-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:01:19.676-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:19.676-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:01:19.725-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:01:19.749-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:19.748-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:01:19.766-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:19.766-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:01:19.975-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.302 seconds
+[2022-09-05T22:01:53.056-0300] {processor.py:153} INFO - Started process (PID=10833) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:01:53.155-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:01:53.156-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:53.156-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:01:53.221-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:01:53.237-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:53.236-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:01:53.263-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:01:53.263-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:01:53.282-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.228 seconds
+[2022-09-05T22:02:25.519-0300] {processor.py:153} INFO - Started process (PID=10887) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:02:25.520-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:02:25.520-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:25.520-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:02:25.553-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:02:25.564-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:25.564-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:02:25.576-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:25.576-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:02:25.604-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.087 seconds
+[2022-09-05T22:02:55.869-0300] {processor.py:153} INFO - Started process (PID=10922) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:02:55.870-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:02:55.870-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:55.870-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:02:55.905-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:02:55.917-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:55.916-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:02:55.929-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:02:55.929-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:02:55.939-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.072 seconds
+[2022-09-05T22:03:27.996-0300] {processor.py:153} INFO - Started process (PID=11016) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:03:28.001-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:03:28.002-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:28.001-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:03:28.036-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:03:28.047-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:28.047-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:03:28.058-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:28.058-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:03:28.072-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.078 seconds
+[2022-09-05T22:03:59.570-0300] {processor.py:153} INFO - Started process (PID=11120) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:03:59.576-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:03:59.577-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:59.576-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:03:59.612-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:03:59.626-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:59.625-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:03:59.641-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:03:59.641-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:03:59.651-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.084 seconds
+[2022-09-05T22:04:30.165-0300] {processor.py:153} INFO - Started process (PID=11200) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:04:30.166-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:04:30.167-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:30.167-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:04:30.246-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:04:30.266-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:30.266-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:04:30.291-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:04:30.290-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:04:30.306-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.146 seconds
+[2022-09-05T22:05:04.397-0300] {processor.py:153} INFO - Started process (PID=11278) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:05:04.407-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:05:04.408-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:04.408-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:05:04.442-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:05:04.456-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:04.456-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:05:04.472-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:04.472-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:05:04.484-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.089 seconds
+[2022-09-05T22:05:40.521-0300] {processor.py:153} INFO - Started process (PID=11362) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:05:40.610-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:05:40.613-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:40.613-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:05:40.652-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:05:40.668-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:40.667-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:05:40.680-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:05:40.680-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:05:40.693-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.174 seconds
+[2022-09-05T22:06:12.057-0300] {processor.py:153} INFO - Started process (PID=11412) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:06:12.068-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:06:12.069-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:12.069-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:06:12.111-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:06:12.124-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:12.124-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:06:12.139-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:12.139-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:06:12.152-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.099 seconds
+[2022-09-05T22:06:45.478-0300] {processor.py:153} INFO - Started process (PID=11617) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:06:45.478-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:06:45.479-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:45.479-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:06:45.526-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:06:45.543-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:45.543-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:06:45.563-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:06:45.563-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:06:45.697-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.223 seconds
+[2022-09-05T22:07:18.161-0300] {processor.py:153} INFO - Started process (PID=11726) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:07:18.162-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:07:18.163-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:18.163-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:07:18.209-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:07:18.227-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:18.226-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:07:18.240-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:18.240-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:07:18.265-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.106 seconds
+[2022-09-05T22:07:52.276-0300] {processor.py:153} INFO - Started process (PID=11862) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:07:52.277-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:07:52.277-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:52.277-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:07:52.308-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:07:52.327-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:52.327-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:07:52.338-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:07:52.338-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:07:52.348-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.074 seconds
+[2022-09-05T22:08:24.733-0300] {processor.py:153} INFO - Started process (PID=11917) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:08:24.752-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:08:24.754-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:24.754-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:08:24.802-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:08:24.819-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:24.818-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:08:24.837-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:24.837-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:08:24.855-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.126 seconds
+[2022-09-05T22:08:58.566-0300] {processor.py:153} INFO - Started process (PID=11971) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:08:58.570-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:08:58.571-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:58.571-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:08:58.618-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:08:58.633-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:58.633-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:08:58.649-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:08:58.649-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:08:58.709-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.145 seconds
+[2022-09-05T22:09:33.061-0300] {processor.py:153} INFO - Started process (PID=12244) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:09:33.062-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:09:33.062-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:09:33.062-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:09:33.114-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:09:33.134-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:09:33.134-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:09:33.151-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:09:33.151-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:09:33.326-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.269 seconds
+[2022-09-05T22:10:08.117-0300] {processor.py:153} INFO - Started process (PID=12342) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:10:08.118-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:10:08.118-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:08.118-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:10:08.152-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:10:08.163-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:08.163-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:10:08.175-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:08.175-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:10:08.289-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.175 seconds
+[2022-09-05T22:10:39.184-0300] {processor.py:153} INFO - Started process (PID=12410) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:10:39.185-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:10:39.185-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:39.185-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:10:39.217-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:10:39.323-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:39.322-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:10:39.337-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:10:39.337-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:10:39.348-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.166 seconds
+[2022-09-05T22:11:13.009-0300] {processor.py:153} INFO - Started process (PID=12479) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:11:13.009-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:11:13.010-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:13.010-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:11:13.052-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:11:13.068-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:13.067-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:11:13.082-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:13.082-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:11:13.093-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.087 seconds
+[2022-09-05T22:11:46.334-0300] {processor.py:153} INFO - Started process (PID=12557) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:11:46.433-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:11:46.433-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:46.433-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:11:46.482-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:11:46.498-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:46.498-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:11:46.515-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:11:46.515-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:11:46.538-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.208 seconds
+[2022-09-05T22:12:21.802-0300] {processor.py:153} INFO - Started process (PID=12673) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:12:21.803-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:12:21.804-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:21.804-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:12:21.837-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:12:21.851-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:21.851-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:12:21.867-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:21.867-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:12:21.879-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.079 seconds
+[2022-09-05T22:12:54.417-0300] {processor.py:153} INFO - Started process (PID=12747) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:12:54.418-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:12:54.419-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:54.419-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:12:54.472-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:12:54.487-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:54.487-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:12:54.506-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:12:54.506-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:12:54.524-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.110 seconds
+[2022-09-05T22:13:27.786-0300] {processor.py:153} INFO - Started process (PID=12793) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:13:27.787-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:13:27.787-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:27.787-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:13:27.816-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:13:27.826-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:27.826-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:13:27.838-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:13:27.837-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:13:27.945-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.161 seconds
+[2022-09-05T22:14:01.471-0300] {processor.py:153} INFO - Started process (PID=12865) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:14:01.472-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:14:01.472-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:01.472-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:14:01.502-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:14:01.512-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:01.511-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:14:01.523-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:01.523-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:14:01.639-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.171 seconds
+[2022-09-05T22:14:35.243-0300] {processor.py:153} INFO - Started process (PID=12920) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:14:35.346-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:14:35.346-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:35.346-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:14:35.377-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:14:35.388-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:35.388-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:14:35.400-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:14:35.400-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:14:35.410-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.170 seconds
+[2022-09-05T22:15:07.690-0300] {processor.py:153} INFO - Started process (PID=13065) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:15:07.691-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:15:07.693-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:07.692-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:15:07.727-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:15:07.738-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:07.738-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:15:07.752-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:07.752-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:15:07.866-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.179 seconds
+[2022-09-05T22:15:40.029-0300] {processor.py:153} INFO - Started process (PID=13200) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:15:40.030-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:15:40.030-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:40.030-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:15:40.076-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:15:40.092-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:40.092-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:15:40.109-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:15:40.108-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:15:40.225-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.199 seconds
+[2022-09-05T22:16:14.045-0300] {processor.py:153} INFO - Started process (PID=13330) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:16:14.069-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:16:14.070-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:14.070-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:16:14.123-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:16:14.140-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:14.140-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:16:14.161-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:14.161-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:16:14.175-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.133 seconds
+[2022-09-05T22:16:47.446-0300] {processor.py:153} INFO - Started process (PID=13495) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:16:47.455-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:16:47.455-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:47.455-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:16:47.487-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:16:47.498-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:47.498-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:16:47.511-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:16:47.510-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:16:47.521-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.077 seconds
+[2022-09-05T22:17:22.563-0300] {processor.py:153} INFO - Started process (PID=13581) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:17:22.582-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:17:22.583-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:22.583-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:17:22.615-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:17:22.626-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:22.626-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:17:22.638-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:22.638-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:17:22.657-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.097 seconds
+[2022-09-05T22:17:58.014-0300] {processor.py:153} INFO - Started process (PID=13681) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:17:58.015-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:17:58.015-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:58.015-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:17:58.054-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:17:58.064-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:58.064-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:17:58.078-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:17:58.078-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:17:58.088-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.077 seconds
+[2022-09-05T22:18:29.786-0300] {processor.py:153} INFO - Started process (PID=13769) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:18:29.787-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:18:29.788-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:29.787-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:18:29.822-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:18:29.834-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:29.833-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:18:29.850-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:18:29.850-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:18:29.958-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.174 seconds
+[2022-09-05T22:19:04.074-0300] {processor.py:153} INFO - Started process (PID=13806) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:19:04.075-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:19:04.075-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:04.075-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:19:04.110-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:19:04.123-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:04.123-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:19:04.137-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:04.136-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:19:04.147-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.075 seconds
+[2022-09-05T22:19:44.758-0300] {processor.py:153} INFO - Started process (PID=13916) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:19:44.759-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:19:44.760-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:44.760-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:19:44.791-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:19:44.803-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:44.803-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:19:44.817-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:19:44.817-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:19:44.827-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.071 seconds
+[2022-09-05T22:20:15.726-0300] {processor.py:153} INFO - Started process (PID=14073) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:20:15.727-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:20:15.728-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:15.728-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:20:15.800-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:20:15.849-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:15.848-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:20:15.889-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:15.888-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:20:15.961-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.238 seconds
+[2022-09-05T22:20:52.902-0300] {processor.py:153} INFO - Started process (PID=14154) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:20:52.903-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:20:52.903-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:52.903-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:20:53.265-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:20:53.272-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:53.272-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:20:53.283-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:20:53.282-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:20:53.311-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.412 seconds
+[2022-09-05T22:21:24.238-0300] {processor.py:153} INFO - Started process (PID=14194) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:21:24.239-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:21:24.240-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:24.240-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:21:24.678-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:21:24.689-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:24.689-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:21:24.705-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:24.705-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:21:24.723-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.489 seconds
+[2022-09-05T22:21:55.041-0300] {processor.py:153} INFO - Started process (PID=14231) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:21:55.041-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:21:55.042-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:55.042-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:21:55.336-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:21:55.343-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:55.343-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:21:55.352-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:21:55.352-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:21:55.380-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.341 seconds
+[2022-09-05T22:22:29.288-0300] {processor.py:153} INFO - Started process (PID=14271) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:22:29.289-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:22:29.290-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:29.290-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:22:29.718-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:22:29.727-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:29.727-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:22:29.743-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:22:29.742-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:22:29.850-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.565 seconds
+[2022-09-05T22:23:01.931-0300] {processor.py:153} INFO - Started process (PID=14311) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:23:01.931-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:23:01.932-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:01.932-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:23:02.296-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:23:02.310-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:02.309-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:23:02.327-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:02.326-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:23:02.341-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.412 seconds
+[2022-09-05T22:23:36.788-0300] {processor.py:153} INFO - Started process (PID=14352) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:23:36.789-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:23:36.789-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:36.789-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:23:37.074-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:23:37.081-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:37.081-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:23:37.091-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:23:37.091-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:23:37.132-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.347 seconds
+[2022-09-05T22:24:07.959-0300] {processor.py:153} INFO - Started process (PID=14388) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:24:07.960-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:24:07.960-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:07.960-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:24:08.242-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:24:08.249-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:08.249-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:24:08.263-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:08.262-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:24:08.273-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.316 seconds
+[2022-09-05T22:24:44.009-0300] {processor.py:153} INFO - Started process (PID=14430) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:24:44.010-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:24:44.010-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:44.010-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:24:44.297-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:24:44.304-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:44.304-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:24:44.313-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:24:44.313-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:24:44.335-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.328 seconds
+[2022-09-05T22:25:14.756-0300] {processor.py:153} INFO - Started process (PID=14470) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:25:14.757-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:25:14.757-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:14.757-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:25:15.058-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:25:15.067-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:15.066-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:25:15.078-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:15.078-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:25:15.193-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.440 seconds
+[2022-09-05T22:25:47.257-0300] {processor.py:153} INFO - Started process (PID=14508) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:25:47.259-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:25:47.260-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:47.260-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:25:47.658-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:25:47.667-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:47.667-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:25:47.679-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:25:47.679-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:25:47.692-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.439 seconds
+[2022-09-05T22:26:18.097-0300] {processor.py:153} INFO - Started process (PID=14545) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:26:18.203-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:26:18.204-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:18.203-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:26:18.482-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:26:18.489-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:18.489-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:26:18.499-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:18.499-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:26:18.510-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.416 seconds
+[2022-09-05T22:26:56.552-0300] {processor.py:153} INFO - Started process (PID=14805) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:26:56.648-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:26:56.649-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:56.649-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:26:56.982-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:26:56.992-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:56.992-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:26:57.004-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:26:57.003-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:26:57.027-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.477 seconds
+[2022-09-05T22:27:36.587-0300] {processor.py:153} INFO - Started process (PID=14862) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:27:36.588-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:27:36.588-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:36.588-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:27:37.017-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:27:37.025-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:37.025-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:27:37.035-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:27:37.035-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:27:37.046-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.461 seconds
+[2022-09-05T22:28:15.786-0300] {processor.py:153} INFO - Started process (PID=14913) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:28:15.787-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:28:15.788-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:15.788-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:28:16.085-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:28:16.093-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:16.093-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:28:16.103-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:16.103-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:28:16.112-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.329 seconds
+[2022-09-05T22:28:46.787-0300] {processor.py:153} INFO - Started process (PID=14949) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:28:46.788-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:28:46.788-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:46.788-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:28:47.079-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:28:47.086-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:47.086-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:28:47.096-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:28:47.096-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:28:47.211-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.426 seconds
+[2022-09-05T22:29:22.720-0300] {processor.py:153} INFO - Started process (PID=14998) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:29:22.721-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:29:22.721-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:22.721-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:29:23.019-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:29:23.028-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:23.027-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:29:23.052-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:29:23.052-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:29:23.063-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.346 seconds
+[2022-09-05T22:30:00.853-0300] {processor.py:153} INFO - Started process (PID=15042) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:30:00.854-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:30:00.854-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:00.854-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:30:01.276-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:30:01.288-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:01.288-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:30:01.303-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:01.303-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:30:01.318-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.468 seconds
+[2022-09-05T22:30:39.268-0300] {processor.py:153} INFO - Started process (PID=15098) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:30:39.269-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:30:39.269-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:39.269-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:30:39.566-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:30:39.574-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:39.574-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:30:39.584-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:30:39.584-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:30:39.594-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.328 seconds
+[2022-09-05T22:31:14.431-0300] {processor.py:153} INFO - Started process (PID=15143) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:31:14.432-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:31:14.433-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:14.433-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:31:14.856-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:31:14.873-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:14.872-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:31:14.891-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:14.891-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:31:14.911-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.485 seconds
+[2022-09-05T22:31:51.744-0300] {processor.py:153} INFO - Started process (PID=15184) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:31:51.748-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:31:51.749-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:51.749-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:31:52.143-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:31:52.153-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:52.153-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:31:52.169-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:31:52.169-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:31:52.184-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.443 seconds
+[2022-09-05T22:32:37.343-0300] {processor.py:153} INFO - Started process (PID=15386) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:32:37.438-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:32:37.439-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:37.439-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:32:37.878-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:32:37.885-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:37.885-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:32:37.895-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:32:37.895-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:32:37.911-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.572 seconds
+[2022-09-05T22:33:16.055-0300] {processor.py:153} INFO - Started process (PID=15610) to work on /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:33:16.056-0300] {processor.py:640} INFO - Processing file /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py for tasks to queue
+[2022-09-05T22:33:16.056-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:16.056-0300] {dagbag.py:508} INFO - Filling up the DagBag from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:33:16.421-0300] {processor.py:650} INFO - DAG(s) dict_keys(['madeira_prices']) retrieved from /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py
+[2022-09-05T22:33:16.437-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:16.437-0300] {dag.py:2429} INFO - Sync 1 DAGs
+[2022-09-05T22:33:16.453-0300] {logging_mixin.py:115} INFO - [2022-09-05T22:33:16.453-0300] {dag.py:2977} INFO - Setting next_dagrun for madeira_prices to 2022-09-06T00:49:12.546957+00:00, run_after=2022-09-07T00:49:12.546957+00:00
+[2022-09-05T22:33:16.469-0300] {processor.py:161} INFO - Processing /home/debian/datapipelines/airflow/dags/madeira_ecommerce_dag.py took 0.418 seconds

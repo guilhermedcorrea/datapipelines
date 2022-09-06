@@ -1,0 +1,23 @@
+[2022-09-05T21:51:23.904-0300] {taskinstance.py:1171} INFO - Dependencies all met for <TaskInstance: urls_google.urls_google scheduled__2022-09-05T00:51:13.055076+00:00 [queued]>
+[2022-09-05T21:51:23.911-0300] {taskinstance.py:1171} INFO - Dependencies all met for <TaskInstance: urls_google.urls_google scheduled__2022-09-05T00:51:13.055076+00:00 [queued]>
+[2022-09-05T21:51:23.911-0300] {taskinstance.py:1368} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-05T21:51:23.911-0300] {taskinstance.py:1369} INFO - Starting attempt 1 of 1
+[2022-09-05T21:51:23.911-0300] {taskinstance.py:1370} INFO - 
+--------------------------------------------------------------------------------
+[2022-09-05T21:51:23.921-0300] {taskinstance.py:1389} INFO - Executing <Task(PythonOperator): urls_google> on 2022-09-05 00:51:13.055076+00:00
+[2022-09-05T21:51:23.923-0300] {standard_task_runner.py:52} INFO - Started process 9449 to run task
+[2022-09-05T21:51:23.925-0300] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'urls_google', 'urls_google', 'scheduled__2022-09-05T00:51:13.055076+00:00', '--job-id', '7', '--raw', '--subdir', 'DAGS_FOLDER/coletor_urls_google_dag.py', '--cfg-path', '/tmp/tmp2ge7oeo_', '--error-file', '/tmp/tmpb25tlozt']
+[2022-09-05T21:51:23.926-0300] {standard_task_runner.py:80} INFO - Job 7: Subtask urls_google
+[2022-09-05T21:51:23.972-0300] {task_command.py:371} INFO - Running <TaskInstance: urls_google.urls_google scheduled__2022-09-05T00:51:13.055076+00:00 [running]> on host debian
+[2022-09-05T21:51:24.016-0300] {taskinstance.py:1581} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=urls_google
+AIRFLOW_CTX_TASK_ID=urls_google
+AIRFLOW_CTX_EXECUTION_DATE=2022-09-05T00:51:13.055076+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-09-05T00:51:13.055076+00:00
+[2022-09-05T21:51:24.017-0300] {python.py:173} INFO - Done. Returned value was: None
+[2022-09-05T21:51:24.022-0300] {taskinstance.py:1407} INFO - Marking task as SUCCESS. dag_id=urls_google, task_id=urls_google, execution_date=20220905T005113, start_date=20220906T005123, end_date=20220906T005124
+[2022-09-05T21:51:24.059-0300] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-09-05T21:51:24.076-0300] {local_task_job.py:279} INFO - 0 downstream tasks scheduled from follow-on schedule check
