@@ -16,22 +16,6 @@ from airflow import models
 from airflow.models.baseoperator import chain
 from datetime import datetime, timedelta
 from selenium.webdriver.chrome.options import Options
-from itertools import zip_longest
-import lxml.html as parser
-import requests
-import csv
-import time
-import re
-import json
-from urllib.parse import urlsplit, urljoin
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
-from selenium import webdriver
-import pandas as pd
-from random import randint
-from selenium import webdriver
-from webdriver_manager.chrome import ChromeDriverManager
 
 
 
